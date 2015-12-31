@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["billkall@gmail.com"]
   spec.summary       = %q{A generator of facts for a specific date}
   spec.description   = %q{Generate facts of what happened today or for a given date}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/arcanoid/facts_by_date"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
