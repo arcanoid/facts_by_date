@@ -1,6 +1,6 @@
 # FactsByDate
 
-TODO: Write a gem description
+A gem that provides a list of events for today or a specific date.
 
 ## Installation
 
