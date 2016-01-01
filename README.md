@@ -1,5 +1,7 @@
 # FactsByDate
 
+[![Build Status](https://travis-ci.org/arcanoid/facts_by_date.svg?branch=master)](https://travis-ci.org/arcanoid/facts_by_date)
+
 A gem that provides a list of events for today or a specific date.
 
 ## Installation

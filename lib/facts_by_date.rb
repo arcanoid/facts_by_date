@@ -15,10 +15,10 @@ module FactsByDate
         facts = data_hash[0]['facts']
 
         # if size option is provided retrieve information only for that size
-        if options[:size].present?
-          facts.take(options[:size])
-        else
+        if options[:size].nil?
           facts
+        else
+          facts.take(options[:size])
         end
       else
         []
@@ -36,10 +36,10 @@ module FactsByDate
           facts = data_hash[0]['facts']
 
           # if size option is provided retrieve information only for that size
-          if options[:size].present?
-            facts.take(options[:size])
-          else
+          if options[:size].nil?
             facts
+          else
+            facts.take(options[:size])
           end
         else
           []
