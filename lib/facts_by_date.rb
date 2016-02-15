@@ -8,8 +8,8 @@ module FactsByDate
       converted_date = Date.today
       facts = []
 
-      if File.exist?("#{ROOT}/data/#{converted_date.month}/#{converted_date.day}.json")
-        file = File.read("#{ROOT}/data/#{converted_date.month}/#{converted_date.day}.json")
+      if File.exist?("#{ROOT}/data/facts/#{converted_date.month}/#{converted_date.day}.json")
+        file = File.read("#{ROOT}/data/facts/#{converted_date.month}/#{converted_date.day}.json")
         data_hash = JSON.parse(file)
 
         facts = data_hash[0]['facts']
@@ -29,8 +29,8 @@ module FactsByDate
       begin
         converted_date = Date.parse(date)
 
-        if File.exist?("#{ROOT}/data/#{converted_date.month}/#{converted_date.day}.json")
-          file = File.read("#{ROOT}/data/#{converted_date.month}/#{converted_date.day}.json")
+        if File.exist?("#{ROOT}/data/facts/#{converted_date.month}/#{converted_date.day}.json")
+          file = File.read("#{ROOT}/data/facts/#{converted_date.month}/#{converted_date.day}.json")
           data_hash = JSON.parse(file)
 
           facts = data_hash[0]['facts']
