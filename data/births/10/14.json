@@ -1,6 +1,21 @@
 [
    {
       "births": [
+        { "day":"14", "month":"10", "year":"1644", "text": "William Penn, English Quaker leader and founder of Pennsylvania." },
+        { "day":"14", "month":"10", "year":"1888", "text": "Katherine Mansfield, short story writer." },
+        { "day":"14", "month":"10", "year":"1890", "text": "Dwight D. Eisenhower, 34th U.S. President (1953-1961)." },
+        { "day":"14", "month":"10", "year":"1894", "text": "e.e. cummings, American poet." },
+        { "day":"14", "month":"10", "year":"1896", "text": "Lilian Gish, Film actress, \"The First Lady of the Silent Screen.\"" },
+        { "day":"14", "month":"10", "year":"1905", "text": "Eugene Fodor, Hungarian-born travel writer." },
+        { "day":"14", "month":"10", "year":"1916", "text": "C. Everett Koop, U.S. Surgeon General." },
+        { "day":"14", "month":"10", "year":"1926", "text": "Son Thomas, blues guitarist and singer." },
+        { "day":"14", "month":"10", "year":"1927", "text": "Sir Roger Moore, actor; played James Bond in 7 films (1973-85) and starred as Simon Templar in The Saint TV series (1962-69)." },
+        { "day":"14", "month":"10", "year":"1930", "text": "Mobutu Sese Seko, President of the Congo / Zaire (1965-97); rose to power in coups that overthrew the first democratically elected president of the Republic of the Congo; the country was renamed Zaire in 1971." },
+        { "day":"14", "month":"10", "year":"1939", "text": "Ralph Lauren, noted fashion designer." },
+        { "day":"14", "month":"10", "year":"1940", "text": "Christopher Timothy, actor, director, writer; best known for portraying James Herriot in the British TV series All Creatures Great and Small (1978-80) and Brendan \"Mac\" McGuire in the BBC soap opera Doctors (2000-06)." },
+        { "day":"14", "month":"10", "year":"1954", "text": "Mordechai Vanunu, Israeli nuclear technician who provided details of Israel’s nuclear weapons program to the British press in 1986, citing his opposition to weapons of mass destruction." },
+        { "day":"14", "month":"10", "year":"1974", "text": "Natalie Maines, singer, songwriter, activist; lead vocalist of the Dixie Chicks, the top-selling all-female band and country group since Nielsen SoundScan tracking began in 1991; Maines’ comments against the coming US invasion of Iraq in 2003 led to radio boycotts that virtually ended the group’s career for several years." },
+        { "day":"14", "month":"10", "year":"1978", "text": "Usher (Usher Raymond IV), singer; among the top-selling artists in music history and multiple Grammy winner (\"Nice & Slow,\" \"OMG\")." }
       ]
    }
 ]

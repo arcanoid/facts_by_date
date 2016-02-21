@@ -1,6 +1,23 @@
 [
    {
       "births": [
+        { "day":"15", "month":"10", "year":"70 BC", "text": "Virgil (Publius Vergilius Maro), Roman poet." },
+        { "day":"15", "month":"10", "year":"1830", "text": "Helen Hunt Jackson, writer and poet." },
+        { "day":"15", "month":"10", "year":"1844", "text": "Friedrich Nietzsche, German philosopher and writer." },
+        { "day":"15", "month":"10", "year":"1881", "text": "P.G. Wodehouse, novelist and playwright." },
+        { "day":"15", "month":"10", "year":"1905", "text": "C.P. Snow, novelist." },
+        { "day":"15", "month":"10", "year":"1908", "text": "John Kenneth Galbraith, economist, writer and diplomat." },
+        { "day":"15", "month":"10", "year":"1910", "text": "Torbjorn Oskar Caspersson, Swedish cytologist and geneticist." },
+        { "day":"15", "month":"10", "year":"1917", "text": "Arthur Schlesinger, Jr., historian and Pulitzer Prize-winning author." },
+        { "day":"15", "month":"10", "year":"1920", "text": "Mario Puzo, novelist and screenwriter best known for The Godfather." },
+        { "day":"15", "month":"10", "year":"1923", "text": "Italo Calvino, Italian novelist." },
+        { "day":"15", "month":"10", "year":"1924", "text": "Lee Iacocca, engineer, businessman; assisted in designing Ford Mustang and Pinto; later, as CEO of Chrysler Corp., he is credited with saving Chrysler from extinction." },
+        { "day":"15", "month":"10", "year":"1926", "text": "Evan Hunter, author, screenwriter; born Salvatore Albert Lombino, he legally changed his name to Evan Hunter in 1952 and created the pen name Ed McBain in 1956. As Evan Hunter he wrote The Blackboard Jungle novel and the screenplay for The Birds; as Ed McBain he created the popular 87th Precinct series that became benchmarks of the police procedural mystery genre." },
+        { "day":"15", "month":"10", "year":"1940", "text": "Peter C. Doherty, veterinary surgeon, medical researcher; shared 1995 Nobel Prize in Physiology or Medicine; named Australian of the Year 1997." },
+        { "day":"15", "month":"10", "year":"1942", "text": "Penny Marshall, actress, producer, director; Laverne of Laverne & Shirley TV sitcom (1976-83); directed Big (1988), the first film directed by a woman to gross over $100 million in US box office receipts." },
+        { "day":"15", "month":"10", "year":"1944", "text": "William David Trimble, Baron Trimble; British politician who served as First Minister of Northern Ireland (1998–2002); shared 1998 Nobel Peace Prize for his role in negotiating the Good Friday Agreement." },
+        { "day":"15", "month":"10", "year":"1954", "text": "Princess Friederike of Hanover." },
+        { "day":"15", "month":"10", "year":"2005", "text": "Prince Christian of Denmark, Count of Monpezat." }
       ]
    }
 ]

@@ -1,6 +1,17 @@
 [
    {
       "births": [
+        { "day":"24", "month":"10", "year":"1632", "text": "Antoni van Leeuwenhoek, Dutch naturalist." },
+        { "day":"24", "month":"10", "year":"1788", "text": "Sarah Josepha Hale, magazine editor and poet whose book Poems for Our Children included \"Mary Had a Little Lamb\" (the first words to be recorded in sound)" },
+        { "day":"24", "month":"10", "year":"1904", "text": "Moss Hart, American playwright who, with George S. Kaufman, wrote plays such as You Can’t Take it with You and The Man who came to Dinner." },
+        { "day":"24", "month":"10", "year":"1911", "text": "Sonny Terry, blues performer." },
+        { "day":"24", "month":"10", "year":"1923", "text": "Denise Levertov, English poet." },
+        { "day":"24", "month":"10", "year":"1929", "text": "George Henry Crumb, American composer." },
+        { "day":"24", "month":"10", "year":"1930", "text": "The Big Bopper (Jiles Perry Richardson, Jr.), singer, songwriter, musician; an early star of rock ‘n’ roll (\"Chantilly Lace\"), he died in the same plane crash that killed Buddy Holly, Ritchie Valens and the pilot, Roger Peterson." },
+        { "day":"24", "month":"10", "year":"1933", "text": "Ronald and Reginald Kray, gangsters whose gang, The Firm, was the most infamous organized crime group in London’s East End in the 1950s and ’60s." },
+        { "day":"24", "month":"10", "year":"1941", "text": "Dr. William H. Dobelle, biomedical researcher who developed technology that restored limited sight to blind patients." },
+        { "day":"24", "month":"10", "year":"1942", "text": "Frank Delany, Irish author, journalist, broadcaster; best known for his novel Ireland and non-fiction book Simple Courage: A True Story of Peril on the Sea." },
+        { "day":"24", "month":"10", "year":"1958", "text": "Gen. Vincent K. Brooks, US Army’s Deputy Director of Operations during the Iraq War that deposed dictator Saddam Hussein; presently (2013) commander of Third Army." }
       ]
    }
 ]

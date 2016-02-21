@@ -1,6 +1,19 @@
 [
    {
       "births": [
+         { "day":"11", "month":"10", "year":"1820", "text": "Sir George Williams, founder of the YMCA." },
+         { "day":"11", "month":"10", "year":"1844", "text": "Henry Heinz, manufacturer, founder of H.J. Heinz Co." },
+         { "day":"11", "month":"10", "year":"1884", "text": "Eleanor Roosevelt, wife of President Franklin Roosevelt." },
+         { "day":"11", "month":"10", "year":"1885", "text": "Francois Mauriac, Nobel Prize-winning novelist." },
+         { "day":"11", "month":"10", "year":"1887", "text": "Willie Hoppe, billiards champion." },
+         { "day":"11", "month":"10", "year":"1910", "text": "Joseph Alsop, American journalist." },
+         { "day":"11", "month":"10", "year":"1918", "text": "Jerome Robbins, choreographer, won Oscar for West Side Story." },
+         { "day":"11", "month":"10", "year":"1925", "text": "Elmore Leonard, author, screenwriter (Get Shorty, Mr. Majestyk)." },
+         { "day":"11", "month":"10", "year":"1928", "text": "Roscoe Robinson Jr., first African American to attain 4-star general status in the US Army." },
+         { "day":"11", "month":"10", "year":"1932", "text": "Dottie West, influential female country singer, songwriter; won Grammy for “Here Comes My Baby Back Again” (1965)." },
+         { "day":"11", "month":"10", "year":"1936", "text": "James M. McPherson, historian specializing in the American Civil War; won Pulitzer Prize for Battle Cry of Freedom (1989)." },
+         { "day":"11", "month":"10", "year":"1946", "text": "Daryl Hall, singer, songwriter, musician, producer; lead vocalist of Hall & Oates (“Rich Girl,” “Maneater”)." },
+         { "day":"11", "month":"10", "year":"1957", "text": "Paul Sereno, paleontologist; discovered several new dinosaur species (including Sarcosuchus imperator, “SuperCroc”) on various continents." }
       ]
    }
 ]

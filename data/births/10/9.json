@@ -1,6 +1,18 @@
 [
    {
       "births": [
+         { "day":"9", "month":"10", "year":"1837", "text": "Francis Parker, educator and founder of progressive elementary schools." },
+         { "day":"9", "month":"10", "year":"1859", "text": "Alfred Dreyfus, French artillery officer who was falsely accused of giving French military secrets to foreign powers." },
+         { "day":"9", "month":"10", "year":"1873", "text": "Charles Rudolph Walgreen, \"the father of the modern drugstore.\"" },
+         { "day":"9", "month":"10", "year":"1879", "text": "Max von Laue, German physicist." },
+         { "day":"9", "month":"10", "year":"1899", "text": "Bruce Catton, U.S. historian and journalist, famous for his works on the Civil War." },
+         { "day":"9", "month":"10", "year":"1909", "text": "Jacques Tati, French actor and director." },
+         { "day":"9", "month":"10", "year":"1940", "text": "John Lennon, musician, singer, songwriter; one of the Beatles (\"Imagine,\" \"Give Peace a Chance\")." },
+         { "day":"9", "month":"10", "year":"1941", "text": "Brian Lamb, journalist, founder of C-SPAN cable network." },
+         { "day":"9", "month":"10", "year":"1941", "text": "Trent Lott, politician, Republican Senate Majority Whip (1995-96), Senate Majority Leader (1996–2001) and Minority Leader (2001-02); resigned during controversy over making remarks that praised Strom Thurmond’s 1948 presidential campaign that had called for preservation of racial segregation." },
+         { "day":"9", "month":"10", "year":"1948", "text": "Jackson Browne, singer, songwriter, musician, producer; member of Rock and Roll Hall of Fame (\"Running on Empty,\" \"Take It Easy\")." },
+         { "day":"9", "month":"10", "year":"1974", "text": "Rabbi Shmuel Herzfeld, writer, radio host; prominent figure in Modern Orthodox Judaism." },
+         { "day":"9", "month":"10", "year":"1979", "text": "Chris O’Dowd, comedian, actor (The IT Crowd and Family Tree TV series, Bridesmaids)." }
       ]
    }
 ]

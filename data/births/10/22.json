@@ -1,6 +1,20 @@
 [
    {
       "births": [
+         { "day":"22", "month":"10", "year":"1811", "text": "Franz Liszt, piano virtuoso." },
+         { "day":"22", "month":"10", "year":"1882", "text": "N.C. Wyeth, painter famous for his illustrations of Treasure Island and Robin Hood." },
+         { "day":"22", "month":"10", "year":"1887", "text": "John Reed, American journalist, poet and revolutionary, (Ten Days That Shook the World)." },
+         { "day":"22", "month":"10", "year":"1903", "text": "George Beadle, American geneticist." },
+         { "day":"22", "month":"10", "year":"1919", "text": "Doris Lessing, novelist (Children of Violence, The Golden Notebook)." },
+         { "day":"22", "month":"10", "year":"1920", "text": "Timothy Leary, American psychologist who experimented with psychedelic drugs." },
+         { "day":"22", "month":"10", "year":"1925", "text": "Robert Rauschenberg, pop artist." },
+         { "day":"22", "month":"10", "year":"1935", "text": "Ann Rule, true crime author (The Stranger Beside Me)." },
+         { "day":"22", "month":"10", "year":"1936", "text": "Bobby Seale, American political activist; co-founder of the Black Panther Party." },
+         { "day":"22", "month":"10", "year":"1938", "text": "Christopher Lloyd, actor; (Back to the Future Film series; Who Framed Roger Rabbit; won three Emmys, two of them for his role as Jim Ignatoski in Taxi TV series)." },
+         { "day":"22", "month":"10", "year":"1939", "text": "Joaquim Chissano, second President of Mozambique (1986–2005); credited with transforming Mozambique into one of Africa’s most successful democracies." },
+         { "day":"22", "month":"10", "year":"1942", "text": "Annette Funicello, actress, singer; one of the most popular Mouseketeers on the original Micky Mouse Club TV series." },
+         { "day":"22", "month":"10", "year":"1948", "text": "Lynette \"Squeaky\" Fromme, unsuccessfully attempted to assassinate Pres. Gerald Ford on Sept. 5, 1975." },
+         { "day":"22", "month":"10", "year":"1952", "text": "Jeff Goldblum, actor (Jurassic Park; Independence Day)." }
       ]
    }
 ]

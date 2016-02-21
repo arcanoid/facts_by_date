@@ -1,6 +1,18 @@
 [
    {
       "births": [
+         { "day":"5", "month":"10", "year":"1830", "text": "Chester A. Arthur, 21st president of the United States (1881-1885)." },
+         { "day":"5", "month":"10", "year":"1882", "text": "Robert Goddard, American rocket scientist, held more than 200 rocketry patents." },
+         { "day":"5", "month":"10", "year":"1902", "text": "Ray Croc, founder of the McDonald’s hamburger franchise in 1955." },
+         { "day":"5", "month":"10", "year":"1911", "text": "Flann O’Brien, Irish novelist and playwright (The Hard Life, The Third Policeman)." },
+         { "day":"5", "month":"10", "year":"1936", "text": "Václav Havel, Czech dissident dramatist who became the first freely elected president of Czechoslovakia in 55 years." },
+         { "day":"5", "month":"10", "year":"1937", "text": "Barry Switzer, longtime coach of the University of Oklahoma, later coach of the Dallas Cowboys; one of only two head coaches to win both an NCAA college football championship and a Super Bowl." },
+         { "day":"5", "month":"10", "year":"1943", "text": "Steve Miller, singer, songwriter, guitarist; lead singer of Steve Miller Band." },
+         { "day":"5", "month":"10", "year":"1952", "text": "Clive Barker, author, director (Hellraiser, Candyman)." },
+         { "day":"5", "month":"10", "year":"1957", "text": "Bernie Mac, comedian, actor; member of the Original Kings of Comedy." },
+         { "day":"5", "month":"10", "year":"1959", "text": "Maya Lin, American architect who designed the Vietnam Memorial in Washington, D.C." },
+         { "day":"5", "month":"10", "year":"1963", "text": "Laura Davies, England’s top professional female golfer." },
+         { "day":"5", "month":"10", "year":"1965", "text": "Mario Lemieux, hockey player, led Pittsburgh Penguins to consecutive Stanley Cups (1991-92)." }
       ]
    }
 ]

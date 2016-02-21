@@ -1,6 +1,21 @@
 [
    {
       "births": [
+         { "day":"18", "month":"10", "year":"1896", "text": "H.L. Davis, novelist and poet." },
+         { "day":"18", "month":"10", "year":"1904", "text": "A.J. Libeling, journalist and author." },
+         { "day":"18", "month":"10", "year":"1926", "text": "Chuck Berry, rock ‘n’ roll performer." },
+         { "day":"18", "month":"10", "year":"1939", "text": "Lee Harvey Oswald, assassin of President John F. Kennedy." },
+         { "day":"18", "month":"10", "year":"1926", "text": "Ntozake Shange (Paulette Williams), poet, playwright and novelist." },
+         { "day":"18", "month":"10", "year":"1950", "text": "Wendy Wasserstein, playwright (The Heidi Chronicles)." },
+         { "day":"18", "month":"10", "year":"1951", "text": "Terry McMillan, novelist (Waiting to Exhale)." },
+         { "day":"18", "month":"10", "year":"1952", "text": "Chuck Lorre (Charles Levine), TV writer, director,  producer and composer. Created several successful sitcoms including Dharma & Greg and The Big Bang Theory." },
+         { "day":"18", "month":"10", "year":"1952", "text": "Bao Ninh (Hoang Au Phuong), Vietnamese author known for his novel The Sorrow of War about the Vietnam War, in which he served." },
+         { "day":"18", "month":"10", "year":"1956", "text": "Craig Bartlett, animator, writer; known for his work on Rugrats , Hey Arnold! and Dinosaur Train animated TV series." },
+         { "day":"18", "month":"10", "year":"1956", "text": "Martina Navratilova, Czechoslovakian-born tennis player; won a record 9 Wimbledon singles competitions." },
+         { "day":"18", "month":"10", "year":"1960", "text": "Erin Moran, actress; best known for her role as Joanie Cunningham on Happy Days TV series and its spinoff Joanie Loves Chachi." },
+         { "day":"18", "month":"10", "year":"1960", "text": "Jean-Claude Van Damme, martial artist, actor, director (Bloodsport, The Expendables 2)." },
+         { "day":"18", "month":"10", "year":"1961", "text": "Wynton Marsalis, Grammy-winning jazz trumpeter; presently (2013) artistic Director of Jazz at Lincoln Center in New York." },
+         { "day":"18", "month":"10", "year":"1970", "text": "Jose Padilla, American terrorist convicted of conspiring with overseas terrorists in death plots; held from May 8, 2002, as an enemy combatant, he was tried in a civilian court in 2006" }
       ]
    }
 ]

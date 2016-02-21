@@ -1,6 +1,16 @@
 [
    {
       "births": [
+        { "day":"7", "month":"10", "year":"1746", "text": "William Billings, composer." },
+        { "day":"7", "month":"10", "year":"1849", "text": "James Whitcomb Riley, poet." },
+        { "day":"7", "month":"10", "year":"1885", "text": "Nils Bohr, physicist whose model of atomic structure helped establish quantum theory." },
+        { "day":"7", "month":"10", "year":"1900", "text": "Heinrich Himmler, Nazi leader." },
+        { "day":"7", "month":"10", "year":"1907", "text": "Helen MacInnes, writer." },
+        { "day":"7", "month":"10", "year":"1931", "text": "Desmond Tutu, South African religious leader." },
+        { "day":"7", "month":"10", "year":"1934", "text": "Leroi Jones (Imamu Amiri Baraka), playwright." },
+        { "day":"7", "month":"10", "year":"1935", "text": "Thomas Keneally, novelist, author of Schindler’s Ark, the basis for the film Schindler’s List." },
+        { "day":"7", "month":"10", "year":"1952", "text": "Vladimir Putin, former prime minister and current (2013) president of Russia." },
+        { "day":"7", "month":"10", "year":"1955", "text": "Yo Yo Ma, cellist." }
       ]
    }
 ]

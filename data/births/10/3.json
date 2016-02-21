@@ -1,6 +1,14 @@
 [
    {
       "births": [
+         { "day":"3", "month":"10", "year":"1800", "text": "George Bancroft, historian, known as the \"Father of American History\" for his 10-volume A History of the United States." },
+         { "day":"3", "month":"10", "year":"1900", "text": "Thomas Wolfe, American novelist (Look Homeward Angel) not to be confused with American novelist Tom Wolfe (The Right Stuff)." },
+         { "day":"3", "month":"10", "year":"1916", "text": "James Herriot, Yorkshire veterinarian and author of All Creatures Great and Small." },
+         { "day":"3", "month":"10", "year":"1925", "text": "Gore Vidal, writer (\"Myra Breckinridge,\" \"Burr,\" \"Lincoln\"); one of the screenwriters on the movie Ben Hur (1959)." },
+         { "day":"3", "month":"10", "year":"1935", "text": "Charles \"Charlie\" Duke, the youngest astronaut to walk on the moon (1972); retired from US Air Force as a brigadier general." },
+         { "day":"3", "month":"10", "year":"1938", "text": "Eddie Cochran, influential rock ‘n’ roll pioneer (\"Summertime Blues\")." },
+         { "day":"3", "month":"10", "year":"1941", "text": "Chubby Checker (Ernest Evans), singer, songwriter who popularized the dance The Twist; Billboard magazine ranked \"The Twist\" as the most popular single in its Hot 100 since the list’s debut in 1958." },
+         { "day":"3", "month":"10", "year":"1954", "text": "Al Sharpton, African-American minister, civil rights activist, TV and radio talk show host; unsuccessful candidate for Democratic nomination for the US presidency in 2004." }
       ]
    }
 ]

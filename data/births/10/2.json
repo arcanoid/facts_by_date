@@ -1,6 +1,23 @@
 [
    {
       "births": [
+         { "day":"2", "month":"10", "year":"1847", "text": "Paul von Hindenburg, German Field Marshall during World War I and second president of the Weimar Republic." },
+         { "day":"2", "month":"10", "year":"1869", "text": "Mahatma Mohandas Gandhi, political leader of India and pioneer of nonviolent activism." },
+         { "day":"2", "month":"10", "year":"1871", "text": "Cordell Hull, Secretary of State for President Franklin Roosevelt." },
+         { "day":"2", "month":"10", "year":"1879", "text": "Wallace Stevens, poet." },
+         { "day":"2", "month":"10", "year":"1890", "text": "Julius Henry ‘Groucho’ Marx, comedian, one of the five Marx brothers (the others being Chico, Harpo, Zeppo and Gummo)." },
+         { "day":"2", "month":"10", "year":"1900", "text": "William A. ‘Bud’ Abbot, comedian, the straight man to Lou Costello." },
+         { "day":"2", "month":"10", "year":"1901", "text": "Roy Campbell, poet (The Flaming Terrapin)." },
+         { "day":"2", "month":"10", "year":"1904", "text": "Graham Greene, novelist (The Power and The Glory, The Heart of the Matter)." },
+         { "day":"2", "month":"10", "year":"1907", "text": "Alexander R. Todd, Baron Todd, Scottish biochemist who won Nobel Prize for Chemistry (1957) for his work on nucleotides, nucleosides, and nucleotide coenzymes." },
+         { "day":"2", "month":"10", "year":"1933", "text": "John Bertrand Gurdon, English developmental biologist who shared Nobel Prize for Physiology or Medicine (2012) for the discovery that mature cells can be converted to stem cells." },
+         { "day":"2", "month":"10", "year":"1937", "text": "Johnnie Cochran, high-profile African American lawyer whose many famous clients included O.J. Simpson and Michael Jackson." },
+         { "day":"2", "month":"10", "year":"1938", "text": "Rex Reed, actor and film critic; co-hosted the At the Movies TV show." },
+         { "day":"2", "month":"10", "year":"1945", "text": "Don McLean, singer, songwriter guitarist, best known for \"American Pie,\" his tribute to Buddy Holly and early rock ‘n’ roll." },
+         { "day":"2", "month":"10", "year":"1945", "text": "Martin Hellman, cryptologist, co-inventor of public key cryptography." },
+         { "day":"2", "month":"10", "year":"1949", "text": "Annie Leibovitz, photographer whose subjects include John Lennon and the Rolling Stones." },
+         { "day":"2", "month":"10", "year":"1951", "text": "Sting (Gordon M.T. Sumner), singer, songwriter, musician, actor; lead singer and bass player for the band The Police before launching a successful solo career." },
+         { "day":"2", "month":"10", "year":"1970", "text": "Kelly Ripa, actress, producer, co-host of Live! with Kelly and Michael TV talk show." }
       ]
    }
 ]

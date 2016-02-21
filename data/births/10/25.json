@@ -1,6 +1,20 @@
 [
    {
       "births": [
+         { "day":"25", "month":"10", "year":"1825", "text": "Johann Strauss, composer." },
+         { "day":"25", "month":"10", "year":"1838", "text": "Georges Bizet, composer, best known for his opera Carmen." },
+         { "day":"25", "month":"10", "year":"1881", "text": "Pablo Picasso, painter and sculptor or over 6,000 works." },
+         { "day":"25", "month":"10", "year":"1888", "text": "Richard E. Byrd, U.S. aviator and explorer who made the first flight over the North Pole." },
+         { "day":"25", "month":"10", "year":"1889", "text": "Abel Gance, film director (Napoleon)." },
+         { "day":"25", "month":"10", "year":"1902", "text": "Henry Steele Commager, American historian who wrote the fifty-five volume Rise of the American Nation." },
+         { "day":"25", "month":"10", "year":"1914", "text": "John Berryman, poet." },
+         { "day":"25", "month":"10", "year":"1941", "text": "Anne Tyler, novelist (The Accidental Tourist, Ladder of Years)." },
+         { "day":"25", "month":"10", "year":"1957", "text": "Nancy Cartwright, voice actress; voice of Bart Simpson and other characters in the long-running animated TV series The Simpsons." },
+         { "day":"25", "month":"10", "year":"1964", "text": "Nicole, German singer, won 1982 Errovision Song Contest singing \"Ein biBchen Frieden\" (\"A Little Peace\"); the English version reached No. 1 on the UK Singles Chart." },
+         { "day":"25", "month":"10", "year":"1970", "text": "Adam Pascal, actor, singer (Rent; Aida)." },
+         { "day":"25", "month":"10", "year":"1971", "text": "Midori Goto, violinist." },
+         { "day":"25", "month":"10", "year":"1984", "text": "Katy Perry, singer, songwriter; (\"Part of Me\"; \"Roar\") named Billboard magazine’s Woman of the Year 2012." },
+         { "day":"25", "month":"10", "year":"2001", "text": "Princess Elisabeth, Duchess of Brabant; heiress apparent to the Belgian throne." }
       ]
    }
 ]

@@ -1,6 +1,17 @@
 [
    {
       "births": [
+         { "day":"1", "month":"10", "year":"1837", "text": "Robert Gould Shaw, commander of the 54th Massachusetts Regiment during America’s Civil War." },
+         { "day":"1", "month":"10", "year":"1904", "text": "Vladimir Horowitz, Russian-born American virtuoso pianist." },
+         { "day":"1", "month":"10", "year":"1924", "text": "Jimmy Carter, 39th president of the U.S. (1977-1981)" },
+         { "day":"1", "month":"10", "year":"1932", "text": "Albert Collins, guitarist." },
+         { "day":"1", "month":"10", "year":"1935", "text": "Julie Andrews (Julia Elizabeth Wells), actress and singer whose films include Mary Poppins and The Sound of Music." },
+         { "day":"1", "month":"10", "year":"1946", "text": "Tim O’Brien, novelist (The Things They Carried, In the Lake of the Woods)." },
+         { "day":"1", "month":"10", "year":"1947", "text": "Dave Arneson, game designer; co-created Dungeons & Dragons roleplaying game with Gary Gygax, establishing the roleplaying game genre." },
+         { "day":"1", "month":"10", "year":"1950", "text": "Randy Quaid, actor (The Last Detail; won Golden Globe for his portrayal of Pres. Lyndon Johnson in LBJ: The Early Years)." },
+         { "day":"1", "month":"10", "year":"1955", "text": "Jeff Reardon, pro baseball pitcher known as \"The Terminator\" for his intimidating pitching mound presence and 98 mph fastball." },
+         { "day":"1", "month":"10", "year":"1963", "text": "Mark McGwire, \"Big Mac,\" pro baseball player who broke Roger Maris’ single-season home run record; admitted in 2010 to using performance-enhancing drugs throughout his career." },
+         { "day":"1", "month":"10", "year":"1964", "text": "Max Matsuura (Masato Matsuura), record producer, president of Avex Group, one of Japan’s largest music labels." }
       ]
    }
 ]

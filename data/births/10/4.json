@@ -1,6 +1,22 @@
 [
    {
       "births": [
+         { "day":"4", "month":"10", "year":"1822", "text": "Rutherford B. Hayes, 19th president of the U.S. (1877-1881)." },`
+         { "day":"4", "month":"10", "year":"1861", "text": "Frederic Remington, Western painter and sculptor." },
+         { "day":"4", "month":"10", "year":"1862", "text": "Edward Stratemeyer, author, creator of the Hardy Boys, Rover Boys, Nancy Drew and the Bobbsey Twins." },
+         { "day":"4", "month":"10", "year":"1879", "text": "Edward Murray East, botanist whose research led to the development of hybrid corn." },
+         { "day":"4", "month":"10", "year":"1884", "text": "Damon Runyon, journalist and short story writer." },
+         { "day":"4", "month":"10", "year":"1895", "text": "Buster (Joseph F.) Keaton, star of silent film comedies including Sherlock, Jr. and The General." },
+         { "day":"4", "month":"10", "year":"1919", "text": "Rene Marques, Puerto Rican playwright and short story writer." },
+         { "day":"4", "month":"10", "year":"1923", "text": "Charlton Heston, American film actor." },
+         { "day":"4", "month":"10", "year":"1928", "text": "Alvin Toffler, writer and futurist." },
+         { "day":"4", "month":"10", "year":"1934", "text": "Sam Huff, pro football player; star of CBS TV special The Violent World of Sam Huff (1961) narrated by Walter Cronkite that is frequently credited with the surge of pro football’s popularity in the US." },
+         { "day":"4", "month":"10", "year":"1937", "text": "Jackie Collins, novelist whose books have sold over 500 million copies (Hollywood Wives, Drop Dead Beautiful)." },
+         { "day":"4", "month":"10", "year":"1941", "text": "Anne Rice, author of gothic fiction, erotica and Christian literature (Interview with the Vampire, Queen of the Damned, Christ the Lord: Out of Egypt); also known by her pen names Anne Rampling and A. N. Roquelaure." },
+         { "day":"4", "month":"10", "year":"1946", "text": "Susan Sarandon, actress; won Academy Award for Dead Man Walking (1995)." },
+         { "day":"4", "month":"10", "year":"1946", "text": "Chuck Hagel; current US Secretary of Defense (2013)." },
+         { "day":"4", "month":"10", "year":"1947", "text": "Jim Fielder, bassist with the band Blood, Sweat & Tears." },
+         { "day":"4", "month":"10", "year":"1957", "text": "Russell Simmons, businessman; founded Def Jam Hip hop music label and Phat Farm clothing line." }
       ]
    }
 ]

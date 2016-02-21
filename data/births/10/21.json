@@ -1,6 +1,16 @@
 [
    {
       "births": [
+        { "day":"21", "month":"10", "year":"1760", "text": "Katsushika Hokusai, Japanese printmaker." },
+        { "day":"21", "month":"10", "year":"1772", "text": "Samuel Taylor Coleridge, English poet (\"The Rime of the Ancient Mariner,\" \"Kubla Khan\")." },
+        { "day":"21", "month":"10", "year":"1833", "text": "Alfred Nobel, inventor of dynamite and founder of the Nobel Prizes." },
+        { "day":"21", "month":"10", "year":"1917", "text": "Dizzy Gillespie, jazz trumpeter." },
+        { "day":"21", "month":"10", "year":"1929", "text": "Ursula K. Le Guin, science fiction writer (The Left Hand of Darkness)" },
+        { "day":"21", "month":"10", "year":"1938", "text": "Carl Brewer, Canadian hockey player; won three Stanley Cups (1962-64) as a member of the Toronto Maple Leafs." },
+        { "day":"21", "month":"10", "year":"1950", "text": "Ronald McNair, astronaut; died when Space Shuttle Challenger exploded shortly after launch on Jan. 2, 1986." },
+        { "day":"21", "month":"10", "year":"1952", "text": "Patti Davis, actress, author; daughter of former US Pres. Ronald Reagan." },
+        { "day":"21", "month":"10", "year":"1956", "text": "Carrie Fisher, actress, author, screenwriter; best known as Prince Leia in the original Star Wars trilogy and he bestselling novel Postcards from the Edge; daughter of singer Eddie Fisher and actress Debbie Reynolds." },
+        { "day":"21", "month":"10", "year":"1969", "text": "Prince Salman bin Hamad bin Isa Al Khalifa, Crown Prince of Bahrain; presently (2013) First Deputy Prime Minister and Deputy Supreme Commander, he is heir apparent to the Bahrain kingdom." }
       ]
    }
 ]

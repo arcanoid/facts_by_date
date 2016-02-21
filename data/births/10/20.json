@@ -1,6 +1,20 @@
 [
    {
       "births": [
+        { "day":"20", "month":"10", "year":"1632", "text": "Sir Christopher Wren, astronomer and architect." },
+        { "day":"20", "month":"10", "year":"1854", "text": "Arthur Rimbaud, poet." },
+        { "day":"20", "month":"10", "year":"1874", "text": "Charles Ives, composer." },
+        { "day":"20", "month":"10", "year":"1884", "text": "Bela Lugosi, Hungarian-born film actor famous for his portrayal of Count Dracula (1931)." },
+        { "day":"20", "month":"10", "year":"1891", "text": "Sir James Chadwick, physicist who won the Nobel Prize for discovering the neutron." },
+        { "day":"20", "month":"10", "year":"1901", "text": "Adelaide Hall, cabaret singer." },
+        { "day":"20", "month":"10", "year":"1925", "text": "Art Buchwald, humorist." },
+        { "day":"20", "month":"10", "year":"1931", "text": "Mickey Mantle, baseball great who played for the New York Yankees" },
+        { "day":"20", "month":"10", "year":"1932", "text": "Michael McClure, beat poet." },
+        { "day":"20", "month":"10", "year":"1940", "text": "Robert Pinsky, former U.S. Poet Laureate." },
+        { "day":"20", "month":"10", "year":"1946", "text": "Lewis Grizzard, journalist and humorist who gained popularity through his syndicated Atlanta Journal-Constitution column; he authored 25 books, including collections of his columns." },
+        { "day":"20", "month":"10", "year":"1946", "text": "Elfriede Jelinek, Austrian playwright and novelist; awarded Nobel Prize in Literature, 2004." },
+        { "day":"20", "month":"10", "year":"1948", "text": "Tom Petty, singer, songwriter, musician; lead singer for Tom Petty and the Heartbreakers and a founder of the Traveling Wilburys and Mudcrutch bands; inducted into Rock and Roll Hall of Fame, 2002." },
+        { "day":"20", "month":"10", "year":"1971", "text": "Snoop Dogg (Calvin Broadus, Jr.), rapper, songwriter, actor; his debut album, Doggy style, came in at No. 1 on the Billboard 200 and Billboard Hot R&B / Hip-Hop charts." }
       ]
    }
 ]

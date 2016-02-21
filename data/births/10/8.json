@@ -1,6 +1,23 @@
 [
    {
       "births": [
+         { "day":"8", "month":"10", "year":"1810", "text": "James Wilson Marshall, discoverer of gold in California." },
+         { "day":"8", "month":"10", "year":"1890", "text": "Eddie Rickenbacker, U.S. fighter pilot in World War I, aviation pioneer." },
+         { "day":"8", "month":"10", "year":"1895", "text": "Juan Peron, Argentinean dictator." },
+         { "day":"8", "month":"10", "year":"1917", "text": "Rodney Porter, British biochemist and Nobel Proze winner." },
+         { "day":"8", "month":"10", "year":"1926", "text": "Cesar Milstein, molecular biologist." },
+         { "day":"8", "month":"10", "year":"1936", "text": "Rona Barrett, gossip columnist; co-host of NBC’s Tomorrow program (1980-81)." },
+         { "day":"8", "month":"10", "year":"1939", "text": "Paul Hogan, comedian, actor; won Golden Globe for his role as \"Crocodile\" Dundee (1986)." },
+         { "day":"8", "month":"10", "year":"1939", "text": "Lynne Stewart, US attorney convicted of conspiracy and providing material support to terrorists (2005) and perjury (2010)." },
+         { "day":"8", "month":"10", "year":"1941", "text": "Jesse Jackson, civil rights leader." },
+         { "day":"8", "month":"10", "year":"1943", "text": "Chevy Chase, actor, comedian, known for his roles on Saturday Night Live TV series and comedic movies (National Lampoon’s Summer Vacation, Caddyshack)." },
+         { "day":"8", "month":"10", "year":"1943", "text": "R. L. Stine, author, screenwriter, producer; known as the \"Stephen King of children’s literature\" for his hundreds of horror novels written for younger readers." },
+         { "day":"8", "month":"10", "year":"1948", "text": "Johnny Ramone, musician, songwriter, founding member of The Ramones band." },
+         { "day":"8", "month":"10", "year":"1949", "text": "Sigourney Weaver, actress; (Aliens film series, Gorillas in the Mist)." },
+         { "day":"8", "month":"10", "year":"1952", "text": "Edward Zwick, director, producer whose films often are based on historic events (Glory, The Last Samurai)." },
+         { "day":"8", "month":"10", "year":"1959", "text": "Erik Gundersen, motorcycle speedway rider; won 3 Speedway World Championships, 2 Long Track World Championships, and 7 World Team Cup awards (riding for Denmark in the latter)." },
+         { "day":"8", "month":"10", "year":"1965", "text": "C. J. Ramone, musician, sometimes vocalist of The Ramones." },
+         { "day":"8", "month":"10", "year":"1970", "text": "Matt Damon, actor, screenwriter, producer, philanthropist; shared Academy Award and Golden Globe for screenplay Good Will Hunting; appeared in Saving Private Ryan, Invictus." }
       ]
    }
 ]

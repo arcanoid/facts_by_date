@@ -1,6 +1,17 @@
 [
    {
       "births": [
+        { "day":"6", "month":"10", "year":"1820", "text": "Jenny Lind, soprano known as the \"Swedish Nightingale.\""},
+        { "day":"6", "month":"10", "year":"1846", "text": "George Westinghouse, prolific inventor, held over 100 patents on creations including air brakes for trains."},
+        { "day":"6", "month":"10", "year":"1887", "text": "Le Corbusier, Swiss-born French architect and city planner."},
+        { "day":"6", "month":"10", "year":"1895", "text": "Caroline Gordon, writer (The Strange Children)."},
+        { "day":"6", "month":"10", "year":"1906", "text": "Janet Gaynor, film actress."},
+        { "day":"6", "month":"10", "year":"1908", "text": "Carol Lombard, American comediennne and actress."},
+        { "day":"6", "month":"10", "year":"1908", "text": "Sammy Price, jazz pianist."},
+        { "day":"6", "month":"10", "year":"1914", "text": "Thor Heyerdahl, Norwegian anthropologist and explorer."},
+        { "day":"6", "month":"10", "year":"1917", "text": "Fannie Lou Hamer, US civil rights advocate; became vice-chair of the Mississippi Freedom Democratic Party."},
+        { "day":"6", "month":"10", "year":"1931", "text": "Riccardo Giacconi, Italian astrophysicist ; won Nobel Prize in Astrophysics for his pioneering contributions that led to the discovery of cosmic X-ray sources."},
+        { "day":"6", "month":"10", "year":"1948", "text": "Gerry Adams, Irish politician who was an important figure in Northern Ireland’s peace process; president of Sinn Fein, Northern Ireland’s second-largest political party, since 1983."}
       ]
    }
 ]

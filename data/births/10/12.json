@@ -1,6 +1,16 @@
 [
    {
       "births": [
+        { "day":"12", "month":"10", "year":"1537", "text": "Edward VI, the only son of Henry VIII by his third wife Jane Seymour." },
+        { "day":"12", "month":"10", "year":"1868", "text": "Charles Sumner Greene, architect." },
+        { "day":"12", "month":"10", "year":"1929", "text": "Richard Coles, child psychologist and author." },
+        { "day":"12", "month":"10", "year":"1932", "text": "Dick Gregory, comedian and social activist." },
+        { "day":"12", "month":"10", "year":"1935", "text": "Luciano Pavarotti, Italian opera tenor." },
+        { "day":"12", "month":"10", "year":"1944", "text": "Angel Rippon, first female journalist to present BBC national television news on a permanent basis." },
+        { "day":"12", "month":"10", "year":"1947", "text": "Chris Wallace, former host/moderator of Meet the Press, currently (2013) host of Fox News Sunday; the three-time Emmy winner is the only person thus far to host more than one major Sunday political talk show." },
+        { "day":"12", "month":"10", "year":"1949", "text": "Carlos the Jackal (Ilich Ramirez Sanches), one of the most infamous political terrorists of the 1970s; currently (2013) serving a life term in France." },
+        { "day":"12", "month":"10", "year":"1955", "text": "Ante Gotvina, Croatian lieutenant general; convicted in 2011 of war crimes during the Croatian civil war, his conviction was overturned in 2012." },
+        { "day":"12", "month":"10", "year":"1968", "text": "Hugh Jackman, actor; well known for his recurring role as Wolverine in the X-Men films, his many awards include a Golden Globe (Les Miserables, 2013) and a Tony Award Special Award for Extraordinary Contribution to the Theatre Community (2012)." }
       ]
    }
 ]

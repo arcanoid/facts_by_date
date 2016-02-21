@@ -1,6 +1,19 @@
 [
    {
       "births": [
+         { "day":"23", "month":"10", "year":"1750", "text": "Nicolas Appert, the inventor of canning." },
+         { "day":"23", "month":"10", "year":"1805", "text": "John Bartlett, lexicographer best known for Bartlett’s Quotations." },
+         { "day":"23", "month":"10", "year":"1844", "text": "Sarah Bernhardt, French actress." },
+         { "day":"23", "month":"10", "year":"1869", "text": "John Heisman, American college football coach for whom the Heisman Trophy is named." },
+         { "day":"23", "month":"10", "year":"1925", "text": "Johnny Carson, American television personality who hosted the Tonight Show." },
+         { "day":"23", "month":"10", "year":"1940", "text": "Pele, legendary Brazilian soccer player who scored 1,281 goals in 22 years" },
+         { "day":"23", "month":"10", "year":"1942", "text": "Michael Crichton, writer (Jurassic Park, The Andromeda Strain)." },
+         { "day":"23", "month":"10", "year":"1951", "text": "Fatmir Sejdiu, first President of the Republic of Kosovo (2006– )." },
+         { "day":"23", "month":"10", "year":"1953", "text": "Altug Taner Akcam, Turkish historian and sociologist; among the first Turkish historians to discuss the Armenian genocide; sued Turkish government before European Court of Human Rights for denying his rights, under a law that punishes incidents of insulting \"Turkishness.\"" },
+         { "day":"23", "month":"10", "year":"1954", "text": "Ang Lee, Taiwanese-born American film director; won Academy Award for Best Director in 2005 (Brokeback Mountain) and 2012 (Life of Pi)." },
+         { "day":"23", "month":"10", "year":"1959", "text": "Alfred \"Weird Al\" Yankovic, singer, songwriter, satirist; known for his humorous rewrites of popular songs and parodies of pop culture." },
+         { "day":"23", "month":"10", "year":"1962", "text": "Doug Flutie, collegiate and pro football quarterback; won Heisman Trophy and Davey O’Brien National Quarterback Award (1984)." },
+         { "day":"23", "month":"10", "year":"1991", "text": "Princess Mako of Akishino, first-born granddaughter of Japanese Emperor Akihito and Empress Michiko." }
       ]
    }
 ]
