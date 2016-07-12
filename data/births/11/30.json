@@ -1,6 +1,20 @@
 [
    {
       "births": [
+         { "day":"30", "month":"11", "year":"1667", "text": "Jonathan Swift, English satirist who wrote Gulliver’s Travels." },
+         { "day":"30", "month":"11", "year":"1835", "text": "Mark Twain (Samuel Langhorne Clemens), American writer best remembered for The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn." },
+         { "day":"30", "month":"11", "year":"1874", "text": "Winston Churchill, British prime minister during and after World War II." },
+         { "day":"30", "month":"11", "year":"1874", "text": "Lucy Maud Montgomery, author of Anne of Green Gables." },
+         { "day":"30", "month":"11", "year":"1912", "text": "Gordon Parks, photographer." },
+         { "day":"30", "month":"11", "year":"1915", "text": "Brownie McGhee, singer and guitarist." },
+         { "day":"30", "month":"11", "year":"1924", "text": "Shirley Chisholm, first African-American congresswoman, a representative for New York." },
+         { "day":"30", "month":"11", "year":"1929", "text": "Joan Ganz Cooney, television executive, founder of the Children’s Television Workshop and mastermind behind Sesame Street." },
+         { "day":"30", "month":"11", "year":"1929", "text": "Dick Clark, television host; (American Bandstand, 1957-87; Pyramid game show); beginning in 1972 and continuing into the 21st century he hosted Dick Clark’s New Year’s Rockin’ Eve on television." },
+         { "day":"30", "month":"11", "year":"1930", "text": "G. Gordon Liddy, chief operative for the \"White House Plumbers\" (July-September 1971) during Richard Nixon’s administration, he organized and oversaw the Watergate burglaries of the Democratic National Committee headquarters. He served nearly 52 months in federal prison." },
+         { "day":"30", "month":"11", "year":"1936", "text": "Abbie Hoffman, political and social activist; co-founded the Youth International Party (Yippies); he became a symbol of the counterculture era." },
+         { "day":"30", "month":"11", "year":"1937", "text": "Sir Ridley Scott, English film director and producer; (Blade Runner, Thelma & Louise) won a Best Picture Oscar for Gladiator (2000)." },
+         { "day":"30", "month":"11", "year":"1955", "text": "Billy Idol (William Broad), punk rock musician; member of Generation X band." },
+         { "day":"30", "month":"11", "year":"1962", "text": "Bo Jackson, the only pro athlete to be named an All-Star in two major American sports (football and baseball); ESPN named him the greatest athlete of all time." }
       ]
    }
 ]

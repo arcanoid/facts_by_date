@@ -1,6 +1,14 @@
 [
    {
       "births": [
+         { "day":"27", "month":"11", "year":"1701", "text": "Anders Celsius, astronomer who devised the centigrade temperature scale." },
+         { "day":"27", "month":"11", "year":"1870", "text": "Joe Mack, builder of gasoline-powered delivery wagons which eventually evolved into the Mack Truck Company." },
+         { "day":"27", "month":"11", "year":"1874", "text": "Charles A. Beard, distinguished American historian who wrote History of the United States." },
+         { "day":"27", "month":"11", "year":"1909", "text": "James Agee, Pulitzer Prize-winning author (A Death in the Family)." },
+         { "day":"27", "month":"11", "year":"1942", "text": "Jimi Hendrix, influential rock musician." },
+         { "day":"27", "month":"11", "year":"1955", "text": "Bill Nye, scientist, educator, TV host; known as Bill Nye the Science Guy, host of the Disney/PBS children’s show of the same name." },
+         { "day":"27", "month":"11", "year":"1957", "text": "Caroline Kennedy, author, attorney, only surviving child of President John F. Kennedy and his wife, Jacqueline "Jackie" Bouvier; named US Ambassador to Japan (2013– )." },
+         { "day":"27", "month":"11", "year":"1963", "text": "Princess Desiree of Hohenzollern." }
       ]
    }
 ]

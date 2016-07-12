@@ -1,6 +1,14 @@
 [
    {
       "births": [
+         { "day":"28", "month":"11", "year":"1628", "text": "John Bunyan, English preacher and writer who wrote Pilgrim’s Progress." },
+         { "day":"28", "month":"11", "year":"1757", "text": "William Blake, English poet." },
+         { "day":"28", "month":"11", "year":"1907", "text": "Alberto Moravia, Italian novelist (The Conformist, Conjugal Love)." },
+         { "day":"28", "month":"11", "year":"1908", "text": "Claude Levi-Strauss, French anthropologist." },
+         { "day":"28", "month":"11", "year":"1916", "text": "Vyes Theriault, French-Canadian author." },
+         { "day":"28", "month":"11", "year":"1929", "text": "Berry Gordy, Jr., recording executive." },
+         { "day":"28", "month":"11", "year":"1944", "text": "Rita Mae Brown, novelist." },
+         { "day":"28", "month":"11", "year":"1962", "text": "Jon Stewart, satirist, writer, director, author, television host, comedian; host of The Daily Show on Comedy Central." }
       ]
    }
 ]
