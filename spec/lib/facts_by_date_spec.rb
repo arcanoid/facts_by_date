@@ -62,4 +62,12 @@ describe FactsByDate::Generator do
       expect(output.size).to eq(2)
     end
   end
+
+  describe '#sources' do
+    it 'should respond with proper list' do
+      output = FactsByDate::Generator.sources
+      expect(output).to be_kind_of Array
+      expect(output.size).to eq(26)
+    end
+  end
 end

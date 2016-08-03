@@ -93,5 +93,14 @@ module FactsByDate
         []
       end
     end
+
+    def self.sources
+      file_to_read = "#{ROOT}/data/sources.json"
+      data = []
+      file = File.read(file_to_read)
+      data << JSON.parse(file).flatten
+
+      data.flatten
+    end
   end
 end
