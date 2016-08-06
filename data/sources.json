@@ -24,5 +24,6 @@
   "http://www.inthe80s.com/80striva.shtml",
   "http://www.historyorb.com/",
   "http://catfacts-api.appspot.com/",
-  "http://www.historynet.com/"
+  "http://www.historynet.com/",
+  "wikipedia.com through http://history.muffinlabs.com/ API (without any alternations)"
 ]

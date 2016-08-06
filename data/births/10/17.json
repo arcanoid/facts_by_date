@@ -1,21 +1,1414 @@
-[
-   {
-      "births": [
-        { "day":"17", "month":"10", "year":"1821", "text": "Alexander Gardner, American photographer who documented the Civil War and the West." },
-        { "day":"17", "month":"10", "year":"1859", "text": "Childe Hassam, American impressionist painter and illustrator." },
-        { "day":"17", "month":"10", "year":"1895", "text": "Doris Humphrey, modern dance choreographer." },
-        { "day":"17", "month":"10", "year":"1903", "text": "Nathaneal West, novelist and screenwriter (Miss Lonely Hearts, The Day of the Locust)." },
-        { "day":"17", "month":"10", "year":"1915", "text": "Arthur Miller, Pulitzer Prize-winning playwright (Death of a Salesman, A View from the Bridge)." },
-        { "day":"17", "month":"10", "year":"1918", "text": "Rita Hayworth, film actress." },
-        { "day":"17", "month":"10", "year":"1930", "text": "Jimmy Breslin, Pulitzer Prize–winning journalist, author and columnist." },
-        { "day":"17", "month":"10", "year":"1938", "text": "Evel Knievel, U.S. daredevil motorcycle stunt man." },
-        { "day":"17", "month":"10", "year":"1942", "text": "Gary Puckett, singer, songwriter; lead singer of Gary Puckett & The Union Gap (\"Woman, Woman\"; \"Young Girl\")." },
-        { "day":"17", "month":"10", "year":"1946", "text": "Michael Hossack, drummer for the Doobie Brothers band" },
-        { "day":"17", "month":"10", "year":"1946", "text": "Adam Michnik, Polish historian and editor-in-chief of Gazeta Wybocza, Poland’s largest newspaper; named Europe’s Man of the Year by La Vie magazine (1989)." },
-        { "day":"17", "month":"10", "year":"1948", "text": "Margo Kidder, actress; best known for playing Lois Lane in four Superman movies between 1978 and 1987." },
-        { "day":"17", "month":"10", "year":"1958", "text": "Alan Jackson, country singer with over 60 million records sold worldwide; his many awards include 2 Grammys and 16 Country Music Association awards; \"Where Were You (When the World Stopped Turning\"; \"Don’t Rock the Jukebox.\"" },
-        { "day":"17", "month":"10", "year":"1960", "text": "Rob Marshall, theater and film director, choreographer; awards include 4 Emmys and an Academy Award for Best Picture (Chicago, 2002)." },
-        { "day":"17", "month":"10", "year":"1968", "text": "Ziggy Marley, Jamaican musician, leader of Ziggy Marley and the Melody Makers; oldest son of reggae great Bob Marley." }
-      ]
-   }
-]
+{
+  "births": [
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1253",
+      "text": "Ivo of Kermartin, French priest and saint (d. 1303)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1577",
+      "text": "Cristofano Allori, Italian painter (d. 1621)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1577",
+      "text": "Dmitry Pozharsky, Russian prince (d. 1642)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1582",
+      "text": "Johann Gerhard, German theologian and academic (d. 1637)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1623",
+      "text": "Francis Turretin, Swiss-Italian minister, theologian, and academic (d. 1687)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1688",
+      "text": "Domenico Zipoli, Italian missionary and composer (d. 1726)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1711",
+      "text": "Jupiter Hammon, American poet (d. 1806)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1719",
+      "text": "Jacques Cazotte, French author and academic (d. 1792)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1720",
+      "text": "Maria Teresa Agnesi Pinottini, Italian harpsichord player and composer (d. 1795)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1725",
+      "text": "John Wilkes, English journalist and politician (d. 1797)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1729",
+      "text": "Pierre-Alexandre Monsigny, French composer and academic (d. 1817)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1760",
+      "text": "Claude Henri de Rouvroy, comte de Saint-Simon, French economist and philosopher (d. 1825)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1810",
+      "text": "Adolphe-Félix Cals, French painter (d. 1880)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1811",
+      "text": "Albertus van Raalte, Dutch-American pastor and educator (d. 1876)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1813",
+      "text": "Georg Büchner, German-Swiss poet and playwright (d. 1837)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1814",
+      "text": "Yakiv Holovatsky, Ukrainian historian, scholar, and poet (d. 1888)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1817",
+      "text": "Syed Ahmad Khan, Indian philosopher and scholar (d. 1898)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1853",
+      "text": "Grand Duchess Maria Alexandrovna of Russia (d. 1920)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1859",
+      "text": "Childe Hassam, American painter and illustrator (d. 1935)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1864",
+      "text": "Elinor Glyn, English author, screenwriter, and producer (d. 1943)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1865",
+      "text": "James Rudolph Garfield, American lawyer and politician, 23rd United States Secretary of the Interior (d. 1950)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1886",
+      "text": "Spring Byington, American actress and singer (d. 1971)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1890",
+      "text": "Roy Kilner, English cricketer (d. 1928)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1892",
+      "text": "Theodor Eicke, German general (d. 1943)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1892",
+      "text": "Herbert Howells, English organist, composer, and educator (d. 1983)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1898",
+      "text": "Shinichi Suzuki, Japanese violinist and educator (d. 1998)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1898",
+      "text": "Simon Vestdijk, Dutch author and poet (d. 1971)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1900",
+      "text": "Jean Arthur, American actress and singer (d. 1991)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1902",
+      "text": "Irene Ryan, American actress (d. 1973)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1903",
+      "text": "Nathanael West, American author and screenwriter (d. 1940)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1906",
+      "text": "Paul Derringer, American baseball player (d. 1987)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1908",
+      "text": "Hjördis Petterson, Swedish actress (d. 1988)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1908",
+      "text": "Red Rolfe, American baseball player, coach, and manager (d. 1969)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1909",
+      "text": "Cozy Cole, American drummer (d. 1981)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1910",
+      "text": "Ester Wier, American author (d. 2000)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1912",
+      "text": "Pope John Paul I (d. 1978)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1912",
+      "text": "Theodore Marier, American composer and educator, founded the Boston Archdiocesan Choir School (d. 2001)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1912",
+      "text": "Jack Owens, American singer-songwriter and pianist (d. 1982)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1913",
+      "text": "Faik Türün, Turkish general (d. 2003)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1914",
+      "text": "Jerry Siegel, American author and illustrator (d. 1996)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1915",
+      "text": "Arthur Miller, American playwright and screenwriter (d. 2005)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1917",
+      "text": "Adele Stimmel Chase, American painter and sculptor (d. 2000)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1917",
+      "text": "Sumner Locke Elliott, Australian-American author and playwright (d. 1991)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1917",
+      "text": "Marsha Hunt, American actress and singer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1917",
+      "text": "Norman Leyden, American composer and conductor (d. 2014)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1918",
+      "text": "Rita Hayworth, American actress, singer, dancer, and producer (d. 1987)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1918",
+      "text": "Ralph Wilson, American businessman, founded the Buffalo Bills (d. 2014)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1919",
+      "text": "Isaak Markovich Khalatnikov, Ukrainian-Russian physicist and academic"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1920",
+      "text": "Montgomery Clift, American actor and screenwriter (d. 1966)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1920",
+      "text": "Miguel Delibes, Spanish journalist and author (d. 2010)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1921",
+      "text": "George Mackay Brown, Scottish author, poet, and playwright (d. 1996)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1921",
+      "text": "Priscilla Buckley, American journalist and author (d. 2012)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1921",
+      "text": "Maria Gorokhovskaya, Russian-Israeli gymnast (d. 2001)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1921",
+      "text": "Tom Poston, American actor (d. 2007)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1922",
+      "text": "Luiz Bonfá, Brazilian guitarist and composer (d. 2001)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1922",
+      "text": "Pierre Juneau, Canadian broadcaster and politician, co-founded the Montreal World Film Festival (d. 2012)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1923",
+      "text": "Barney Kessel, American guitarist and composer (d. 2004)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1923",
+      "text": "Charles McClendon, American football player and coach (d. 2001)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1924",
+      "text": "Don Coryell, American football player and coach (d. 2010)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1924",
+      "text": "Anton Geiser, Croatian SS officer (d. 2012)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1925",
+      "text": "Harry Carpenter, English sportscaster (d. 2010)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1926",
+      "text": "Julie Adams, American actress"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1926",
+      "text": "Beverly Garland, American actress (d. 2008)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1926",
+      "text": "Roberto Lippi, Italian race car driver (d. 2011)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1929",
+      "text": "Mário Wilson, Mozambican footballer and manager"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1930",
+      "text": "Ismail Akbay, Turkish physicist and engineer (d. 2003)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1930",
+      "text": "Robert Atkins, American physician and cardiologist, created the Atkins diet (d. 2003)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1930",
+      "text": "Jimmy Breslin, American journalist and author"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1931",
+      "text": "Ernst Hinterberger, Austrian author and playwright (d. 2012)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1933",
+      "text": "William Anders, Hong Kong-American general and astronaut"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1933",
+      "text": "The Singing Nun, Belgian singer-songwriter, guitarist, and nun (d. 1985)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1934",
+      "text": "Alan Garner, English author and playwright"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1934",
+      "text": "Johnny Haynes, English-Scottish footballer (d. 2005)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1934",
+      "text": "Rico Rodriguez, American trombonist (The Specials and Jools Holland's Rhythm and Blues Orchestra)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1935",
+      "text": "Sydney Chapman, English architect and politician, Vice-Chamberlain of the Household (d. 2014)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1935",
+      "text": "Michael Eavis, English farmer, founded the Glastonbury Festival"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1936",
+      "text": "Sathima Bea Benjamin, South African singer-songwriter (d. 2013)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1936",
+      "text": "Hiroo Kanamori, Japanese-American seismologist and academic"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1937",
+      "text": "Paxton Whitehead, English actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1938",
+      "text": "Evel Knievel, American motorcycle rider and stuntman (d. 2007)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1938",
+      "text": "Marita Lindahl, Finnish model, beauty queen and Miss World 1957"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1938",
+      "text": "Les Murray, Australian anthologist, poet, and critic"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1939",
+      "text": "Oliver Rackham, English botanist and academic"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1940",
+      "text": "Stephen Kovacevich, American pianist and conductor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1940",
+      "text": "Jim Smith, English footballer and manager"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1940",
+      "text": "Peter Stringfellow, English businessman"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1941",
+      "text": "Earl Thomas Conley, American singer-songwriter and guitarist"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1942",
+      "text": "Steve Jones, American basketball player and sportscaster"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1946",
+      "text": "Ronni Chasen, American publicist (d. 2010)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1946",
+      "text": "Michael Hossack, American drummer (The Doobie Brothers) (d. 2012)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1946",
+      "text": "Cameron Mackintosh, English producer and manager"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1946",
+      "text": "Adam Michnik, Polish journalist and historian"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1946",
+      "text": "Drusilla Modjeska, English-Australian author and critic"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1946",
+      "text": "Bob Seagren, American pole vaulter and actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1947",
+      "text": "Simi Garewal, Indian actress and director"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1947",
+      "text": "Gene Green, American lawyer and politician"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1947",
+      "text": "Michael McKean, American singer-songwriter, actor, and director"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1947",
+      "text": "Robert Post, American dean and professor of law"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1948",
+      "text": "Robert Jordan, American soldier and author (d. 2007)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1948",
+      "text": "Margot Kidder, Canadian-American actress"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1948",
+      "text": "Michael Lynch, American sociologist and academic"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1948",
+      "text": "George Wendt, American actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1948",
+      "text": "Akira Kushida, Japanese singer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1949",
+      "text": "Owen Arthur, Barbadian economist and politician, 5th Prime Minister of Barbados"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1950",
+      "text": "Philippe Barbarin, French cardinal"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1950",
+      "text": "Howard Rollins, American actor (d. 1996)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1951",
+      "text": "Annie Borckink, Dutch speed skater"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1951",
+      "text": "Roger Pontare, Swedish singer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1951",
+      "text": "Shari Ulrich, American-Canadian singer-songwriter and violinist (Hometown Band, The Pied Pumkin, and UHF)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1953",
+      "text": "Joseph Bowie, American trombonist and bandleader (Defunkt and Black Artists Group)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1954",
+      "text": "Carlos Buhler, American mountaineer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1955",
+      "text": "Georgios Alogoskoufis, Greek economist, academic, and politician, Greek Minister of Finance"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1955",
+      "text": "Tyrone Mitchell, American murderer (d. 1984)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1955",
+      "text": "Smita Patil, Indian actress (d. 1986)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1956",
+      "text": "Fran Cosmo, American singer-songwriter and guitarist (Boston and Orion the Hunter)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1956",
+      "text": "Mae Jemison, American physician, academic, and astronaut"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1956",
+      "text": "Pat McCrory, American businessman and politician, 74th Governor of North Carolina"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1957",
+      "text": "Lawrence Bender, American actor and producer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1957",
+      "text": "Steve McMichael, American football player, wrestler, and sportscaster"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1957",
+      "text": "Vincent Van Patten, American tennis player and actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1958",
+      "text": "Howard Alden, American guitarist"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1958",
+      "text": "Alan Jackson, American singer-songwriter"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1958",
+      "text": "Craig Murray, former British Ambassador to Uzbekistan"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1959",
+      "text": "Ron Drummond, American author and scholar"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1959",
+      "text": "Francisco Flores Pérez, Salvadorian politician, President of El Salvador (d. 2016)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1959",
+      "text": "Russell Gilbert, Australian comedian, actor, and screenwriter"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1959",
+      "text": "Mark Peel, Australian historian and academic"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1959",
+      "text": "Richard Roeper, American journalist and critic"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1960",
+      "text": "Guy Henry, English actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1960",
+      "text": "Rob Marshall, American director, producer, and choreographer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1960",
+      "text": "Bernie Nolan, Irish singer and actress (The Nolans) (d. 2013)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1960",
+      "text": "Philippe Sands, American lawyer and academic"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1962",
+      "text": "Mike Judge, American animator, director, screenwriter, producer and actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1963",
+      "text": "Sergio Goycochea, Argentinian footballer and journalist"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1963",
+      "text": "Norm Macdonald, Canadian-American actor, producer, and screenwriter"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1963",
+      "text": "Toby Young, English journalist and academic"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1965",
+      "text": "Aravinda de Silva, Sri Lankan cricketer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1966",
+      "text": "Shaun Edwards, English rugby player and coach"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1966",
+      "text": "Danny Ferry, American basketball player and manager"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1966",
+      "text": "Mark Gatiss, English actor, screenwriter, and author"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1966",
+      "text": "Tommy Kendall, American race car driver and sportscaster"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1967",
+      "text": "René Dif, Danish singer and actor (Aqua)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1967",
+      "text": "Simon Segars, English businessman"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1967",
+      "text": "Kim Seung-jun, South Korean voice actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1968",
+      "text": "Graeme Le Saux, English footballer and sportscaster"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1968",
+      "text": "Ziggy Marley, Jamaican singer-songwriter, guitarist, and voice actor (Ziggy Marley and the Melody Makers)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1968",
+      "text": "David Robertson, Scottish footballer and manager"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1969",
+      "text": "Ernie Els, South African golfer and sportscaster"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1969",
+      "text": "Wyclef Jean, Haitian-American rapper, producer, and actor (Fugees)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1969",
+      "text": "Wood Harris, American actor and producer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1969",
+      "text": "Rick Mercer, Canadian comedian, actor, producer, and screenwriter"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1970",
+      "text": "Anil Kumble, Indian cricketer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1970",
+      "text": "John Mabry, American baseball player, coach, and sportscaster"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1970",
+      "text": "Shauna O'Brien, American model and actress"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1970",
+      "text": "Blues Saraceno, American guitarist, songwriter, and producer (Poison)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1971",
+      "text": "Chris Kirkpatrick, American singer-songwriter, dancer, and actor ('N Sync)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1971",
+      "text": "Kim Ljung, Norwegian singer-songwriter and bass player (Seigmen and Zeromancer)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1972",
+      "text": "Eminem, American rapper, producer, and actor (D12, Outsidaz, and Bad Meets Evil)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1972",
+      "text": "Musashi, Japanese martial artist and kick-boxer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1972",
+      "text": "Tarkan, Turkish singer-songwriter and producer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1972",
+      "text": "Sharon Leal, American actress and singer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1972",
+      "text": "Joe McEwing, American baseball player, coach, and manager"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1973",
+      "text": "Andrea Tarozzi, Italian footballer and coach"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1974",
+      "text": "Ariel Levy, American journalist and author"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1974",
+      "text": "Matthew Macfadyen, English actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1974",
+      "text": "Janne Puurtinen, Finnish keyboard player (HIM)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1974",
+      "text": "Cincinnati Red, American wrestler (d. 2015)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1974",
+      "text": "John Rocker, American baseball player and actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1974",
+      "text": "Dhondup Wangchen, Chinese director and producer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1975",
+      "text": "Janne Aikala, Finnish murder victim (d. 1986)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1975",
+      "text": "Francis Bouillon, American-Canadian ice hockey player"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1975",
+      "text": "Vina Morales, Filipino actress and singer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1975",
+      "text": "Despina Olympiou, Greek-Cypriot singer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1976",
+      "text": "Sebastián Abreu, Uruguayan footballer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1976",
+      "text": "Rena Inoue, Japanese-American figure skater"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1976",
+      "text": "Nil Karaibrahimgil, Turkish singer-songwriter"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1976",
+      "text": "Kevin Maher, English-Irish footballer and coach"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1977",
+      "text": "Dudu Aouate, Israeli footballer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1977",
+      "text": "Alimi Ballard, American actor and producer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1977",
+      "text": "Bryan Bertino, American actor, director, producer, and screenwriter"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1977",
+      "text": "Hiroyuki Hirayama, Japanese actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1977",
+      "text": "Ryan McGinley, American photographer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1977",
+      "text": "André Villas-Boas, Portuguese footballer and manager"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1978",
+      "text": "Jerry Flannery, Irish rugby player and coach"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1978",
+      "text": "Erin Karpluk, Canadian actress"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1978",
+      "text": "Chuka Umunna, English lawyer and politician"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1979",
+      "text": "Marcela Bovio, Mexican singer-songwriter and violinist (Stream of Passion and Elfonía)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1979",
+      "text": "Alexandros Nikolaidis, Greek martial artist"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1979",
+      "text": "Koichiro Nishi, Japanese actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1979",
+      "text": "Kimi Räikkönen, Finnish race car driver"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1979",
+      "text": "Kostas Tsartsaris, Greek basketball player"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1980",
+      "text": "Alessandro Piccolo, Italian race car driver"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1980",
+      "text": "Angel Parker, American actress"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1980",
+      "text": "Mohammad Hafeez, Pakistani cricketer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1980",
+      "text": "Yekaterina Gamova, Russian volleyball player"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1981",
+      "text": "Tsubasa Imai, Japanese singer, actor, and dancer (Tackey & Tsubasa)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1982",
+      "text": "Nick Riewoldt, Australian footballer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1983",
+      "text": "Daniel Booko, American voice actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1983",
+      "text": "Milica Brozovic, Serbian-Russian figure skater"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1983",
+      "text": "Felicity Jones, English actress"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1983",
+      "text": "Toshihiro Matsushita, Japanese footballer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1983",
+      "text": "Riki Miura, Japanese actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1983",
+      "text": "Junichi Miyashita, Japanese swimmer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1983",
+      "text": "Ivan Saenko, Russian footballer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1983",
+      "text": "Mitch Talbot, American baseball player"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1983",
+      "text": "Vitali Teleš, Estonian footballer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1984",
+      "text": "Jelle Klaasen, Dutch darts player"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1984",
+      "text": "Chris Lowell, American actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1984",
+      "text": "Randall Munroe, American author and illustrator"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1984",
+      "text": "Anja Eline Skybakmoen, Norwegian singer-songwriter and bandleader (Pitsj)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1985",
+      "text": "Carlos González, Venezuelan baseball player"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1985",
+      "text": "Max Irons, English actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1985",
+      "text": "Collins John, Dutch footballer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1985",
+      "text": "Baran Kosari, Iranian actress"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1985",
+      "text": "Tomokazu Nagira, Japanese footballer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1986",
+      "text": "Aija Brumermane, Latvian basketball player"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1986",
+      "text": "Yannick Ponsero, French figure skater"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1987",
+      "text": "Bea Alonzo, Filipino actress and singer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1987",
+      "text": "Jarosław Fojut, Polish footballer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1987",
+      "text": "Hideto Takahashi, Japanese footballer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1988",
+      "text": "Christina Crawford, American wrestler and dancer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1988",
+      "text": "Tori Matsuzaka, Japanese model and actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1988",
+      "text": "Yuko Oshima, Japanese singer and actress (AKB48 and Not Yet)"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1989",
+      "text": "Tokio Emoto, Japanese actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1989",
+      "text": "Oleksandr Isakov, Ukrainian swimmer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1990",
+      "text": "Bianca Bree, Belgian-American actress and producer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1990",
+      "text": "Paolo Campinoti, Italian footballer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1990",
+      "text": "Saki Kumagai, Japanese footballer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1990",
+      "text": "Patrick Lambie, South African rugby player"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1990",
+      "text": "Arisa Murata, Japanese skier"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1991",
+      "text": "Brenda Asnicar, Argentinian actress, singer, and dancer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1992",
+      "text": "Jacob Artist, American actor, singer, and dancer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1992",
+      "text": "Sam Concepcion, Filipino singer, dancer, and actor"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1992",
+      "text": "Nanami Sakuraba, Japanese actress and singer"
+    },
+    {
+      "day": 17,
+      "month": 10,
+      "year": "1995",
+      "text": "Jamal Adams, American footballer"
+    }
+  ]
+}

@@ -1,6 +1,1594 @@
-[
-   {
-      "births": [
-      ]
-   }
-]
+{
+  "births": [
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1023",
+      "text": "Emperor Go-Reizei of Japan (d. 1068)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1582",
+      "text": "Taichang Emperor of China (d. 1620)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1592",
+      "text": "George Villiers, 1st Duke of Buckingham, English courtier and politician, Lord Lieutenant of Buckinghamshire (d. 1628)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1612",
+      "text": "Marcus Zuerius van Boxhorn, Dutch linguist and scholar (d. 1653)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1667",
+      "text": "Louise of Mecklenburg-Güstrow (d. 1721)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1691",
+      "text": "Elisabeth Christine of Brunswick-Wolfenbüttel (d. 1750)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1694",
+      "text": "Charlotte Christine of Brunswick-Lüneburg (d. 1715)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1714",
+      "text": "Duke Anthony Ulrich of Brunswick (d. 1774)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1728",
+      "text": "John Stark, American general (d. 1822)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1739",
+      "text": "Agostino Accorimboni, Italian composer (d. 1818)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1749",
+      "text": "Johann Wolfgang von Goethe, German author, poet, playwright, and diplomat (d. 1832)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1770",
+      "text": "Johann Karl Simon Morgenstern, German-Livonian philologist and academic (d. 1852)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1774",
+      "text": "Elizabeth Ann Seton, American nun and saint, co-founded the Sisters of Charity Federation in the Vincentian-Setonian Tradition (d. 1821)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1789",
+      "text": "Stéphanie de Beauharnais, French wife of Charles, Grand Duke of Baden (d. 1860)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1801",
+      "text": "Antoine Augustin Cournot, French mathematician and philosopher (d. 1877)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1814",
+      "text": "Sheridan Le Fanu, Irish author (d. 1873)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1827",
+      "text": "Grand Duchess Catherine Mikhailovna of Russia (d. 1894)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1831",
+      "text": "Lucy Webb Hayes, American wife of Rutherford B. Hayes, 20th First Lady of the United States (d. 1889)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1837",
+      "text": "Francis, Duke of Teck (d. 1900)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1840",
+      "text": "Alexander Cameron Sim, Scottish-Japanese pharmacist and businessman, founded Kobe Regatta & Athletic Club (d. 1900)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1853",
+      "text": "Vladimir Shukhov, Russian architect and engineer, designed the Adziogol Lighthouse (d. 1939)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1859",
+      "text": "Matilda Howell, American archer (d. 1938)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1859",
+      "text": "Vittorio Sella, Italian mountaineer and photographer (d. 1943)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1867",
+      "text": "Umberto Giordano, Italian composer and academic (d. 1948)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1878",
+      "text": "George Whipple, American physician and pathologist, Nobel Prize laureate (d. 1976)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1884",
+      "text": "Peter Fraser, Scottish-New Zealand journalist and politician, 24th Prime Minister of New Zealand (d. 1950)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1885",
+      "text": "Vance Palmer, Australian author, playwright, and critic (d. 1959)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1887",
+      "text": "August Kippasto, Estonian-Australian wrestler and poet (d. 1973)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1887",
+      "text": "István Kühár, Slovenian priest and politician (d. 1922)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1888",
+      "text": "Evadne Price, Australian actress, astrologer, and author (d. 1985)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1891",
+      "text": "Benno Schotz, Estonian-Scottish sculptor and engineer (d. 1984)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1894",
+      "text": "Karl Böhm, Austrian conductor and director (d. 1981)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1896",
+      "text": "Firaq Gorakhpuri, Indian author, poet, and critic (d. 1982)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1898",
+      "text": "Charlie Grimm, American baseball player, manager, and sportscaster (d. 1983)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1899",
+      "text": "Charles Boyer, French-American actor, singer, and producer (d. 1978)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1899",
+      "text": "Andrei Platonov, Russian author and poet (d. 1951)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1903",
+      "text": "Bruno Bettelheim, Austrian-American psychologist and author (d. 1990)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1904",
+      "text": "Secondo Campini, Italian-American engineer (d. 1980)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1904",
+      "text": "Leho Laurine, Estonian chess player (d. 1998)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1905",
+      "text": "Cyril Walters, Welsh-English cricketer (d. 1992)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1906",
+      "text": "John Betjeman, English poet and academic (d. 1984)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1908",
+      "text": "Roger Tory Peterson, American ornithologist and author (d. 1996)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1910",
+      "text": "Morris Graves, American painter and academic (d. 2001)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1910",
+      "text": "Tjalling Koopmans, Dutch-American mathematician and economist Nobel Prize laureate (d. 1985)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1911",
+      "text": "Joseph Luns, Dutch politician and diplomat, 5th Secretary General of NATO (d. 2002)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1913",
+      "text": "Robertson Davies, Canadian journalist, author, and playwright (d. 1995)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1913",
+      "text": "Jack Dreyfus, American businessman, founded the Dreyfus Corporation (d. 2009)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1913",
+      "text": "Lindsay Hassett, Australian cricketer and sportscaster (d. 1993)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1913",
+      "text": "Robert Irving, English conductor and director (d. 1991)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1913",
+      "text": "Terence Reese, English bridge player and author (d. 1996)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1913",
+      "text": "Richard Tucker, American tenor and actor (d. 1975)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1915",
+      "text": "Max Robertson, Bangladeshi-English sportscaster and author (d. 2009)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1915",
+      "text": "Tasha Tudor, American author and illustrator (d. 2008)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1916",
+      "text": "Hélène Baillargeon, Canadian singer and actress (d. 1997)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1916",
+      "text": "C. Wright Mills American sociologist and author (d. 1962)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1916",
+      "text": "Jack Vance, American author (d. 2013)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1917",
+      "text": "Jack Kirby, American author and illustrator (d. 1994)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1918",
+      "text": "L. B. Cole, American illustrator and publisher (d. 1995)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1919",
+      "text": "Godfrey Hounsfield, English biophysicist and engineer Nobel Prize laureate (d. 2004)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1921",
+      "text": "John Herbert Chapman, Canadian physicist and engineer (d. 1979)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1921",
+      "text": "Fernando Fernán Gómez, Spanish actor, director, and playwright (d. 2007)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1921",
+      "text": "Nancy Kulp, American actress and soldier (d. 1991)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1924",
+      "text": "Janet Frame, New Zealand author and poet (d. 2004)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1924",
+      "text": "Tony MacGibbon, New Zealand cricketer and engineer (d. 2010)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1924",
+      "text": "Peggy Ryan, American actress and dancer (d. 2004)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1924",
+      "text": "Zalman Schachter-Shalomi, Ukrainian-American rabbi and author (d. 2014)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1925",
+      "text": "Billy Grammer, American singer-songwriter and guitarist (d. 2011)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1925",
+      "text": "Donald O'Connor, American actor, singer, and dancer (d. 2003)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1925",
+      "text": "Philip Purser, English author and critic"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1926",
+      "text": "Dixie Evans, American model and dancer (d. 2013)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1928",
+      "text": "F. William Free, American businessman (d. 2003)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1928",
+      "text": "Vilayat Khan, Indian sitar player and composer (d. 2004)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1929",
+      "text": "Ken Gampu, South African police officer and actor (d. 2003)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1929",
+      "text": "István Kertész, Hungarian conductor (d. 1973)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1929",
+      "text": "Roxie Roker, American actress (d. 1995)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1930",
+      "text": "Windsor Davies, English actor"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1930",
+      "text": "Ben Gazzara, American actor, singer, and director (d. 2012)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1931",
+      "text": "Tito Capobianco, Argentinian director and producer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1931",
+      "text": "Cristina Deutekom, Dutch soprano and actress (d. 2014)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1931",
+      "text": "Ola L. Mize, American colonel, Medal of Honor recipient (d. 2014)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1931",
+      "text": "John Shirley-Quirk, English actor, singer, and educator (d. 2014)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1931",
+      "text": "Roger Williams, English hepatologist and academic"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1932",
+      "text": "Andy Bathgate, Canadian ice hockey player, coach, and manager (d. 2016)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1932",
+      "text": "Yakir Aharonov, Israeli professor of Theoretical Physics"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1933",
+      "text": "Philip French, English journalist, critic, and producer (d. 2015)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1933",
+      "text": "Patrick Kalilombe, Malawian bishop and theologian (d. 2012)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1935",
+      "text": "Melvin Charney, Canadian sculptor and architect (d. 2012)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1935",
+      "text": "Gilles Rocheleau, Canadian businessman and politician (d. 1998)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1935",
+      "text": "Sonny Shroyer, American actor and singer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1936",
+      "text": "Don Denkinger, American baseball player and umpire"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1938",
+      "text": "Maurizio Costanzo, Italian journalist and academic"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1938",
+      "text": "Paul Martin, Canadian lawyer and politician, 21st Prime Minister of Canada"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1938",
+      "text": "Bengt Fahlström, Swedish journalist"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1939",
+      "text": "John Kingman, English mathematician and academic"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1940",
+      "text": "William Cohen, American lawyer and politician, 20th United States Secretary of Defense"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1940",
+      "text": "Ken Jenkins, American actor"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1940",
+      "text": "Gloria Leonard, American porn actress and publisher (d. 2014)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1940",
+      "text": "Roger Pingeon, French cyclist"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1941",
+      "text": "Michael Craig-Martin, Irish painter and illustrator"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1941",
+      "text": "Sybille de Selys Longchamps, Belgian mother of Delphine Boël"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1941",
+      "text": "Toomas Leius, Estonian tennis player and coach"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1941",
+      "text": "John Stanley Marshall, English drummer (Nucleus, Soft Machine, and Centipede)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1941",
+      "text": "Paul Plishka, American opera singer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1942",
+      "text": "Wendy Davies, Welsh historian and academic"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1942",
+      "text": "Sterling Morrison, American singer and guitarist (The Velvet Underground) (d. 1995)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1942",
+      "text": "Jorge Urosa, Venezuelan cardinal"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1943",
+      "text": "Surayud Chulanont, Thai general and politician, 24th Prime Minister of Thailand"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1943",
+      "text": "Robert Greenwald, American director and producer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1943",
+      "text": "Shuja Khanzada, Pakistani colonel and politician (d. 2015)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1943",
+      "text": "Lou Piniella, American baseball player and manager"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1943",
+      "text": "David Soul, American actor and singer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1943",
+      "text": "Jihad Al-Atrash, Lebanese actor and voice actor"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1944",
+      "text": "Melvin Dummar, American forger of Howard Hughes estate"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1944",
+      "text": "Marianne Heemskerk, Dutch swimmer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1944",
+      "text": "Kay Parker, English porn actress and author"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1945",
+      "text": "Bob Segarini, American-Canadian singer-songwriter (The Wackers)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1947",
+      "text": "Liza Wang, Hong Kong actress and singer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1948",
+      "text": "Vonda N. McIntyre, American author"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1948",
+      "text": "Murray Parker, New Zealand cricketer and educator"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1948",
+      "text": "Heather Reisman, Canadian publisher and businesswoman, founded Indigo Books and Music"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1948",
+      "text": "Danny Seraphine, American drummer and producer (Chicago)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1948",
+      "text": "Elizabeth Wilmshurst, English academic and jurist"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1949",
+      "text": "Hugh Cornwell, English singer-songwriter and guitarist (The Stranglers)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1949",
+      "text": "Svetislav Pešić, Serbian basketball player and coach"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1950",
+      "text": "Ron Guidry, American baseball player and coach"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1950",
+      "text": "Tony Husband, English cartoonist"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1951",
+      "text": "Colin McAdam, Scottish footballer (d. 2013)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1951",
+      "text": "Wayne Osmond, American singer-songwriter and actor (The Osmonds)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1951",
+      "text": "Keiichi Suzuki, Japanese singer-songwriter and actor (The Beatniks)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1952",
+      "text": "Jacques Chagnon, Canadian educator and politician"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1952",
+      "text": "Rita Dove, American poet and author"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1952",
+      "text": "Guy Nadon, Canadian actor"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1952",
+      "text": "Wendelin Wiedeking, German businessman"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1953",
+      "text": "Ditmar Jakobs, German footballer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1953",
+      "text": "Tõnu Kaljuste, Estonian conductor and journalist"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1954",
+      "text": "George M. Church, American geneticist, chemist, and engineer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1954",
+      "text": "John Dorahy, Australian rugby player and coach"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1954",
+      "text": "Ravi Kanbur, Indian-English economist and academic"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1956",
+      "text": "Luis Guzmán, Puerto Rican-American actor and producer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1956",
+      "text": "Steve Whiteman, American singer-songwriter (Kix and Funny Money)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1957",
+      "text": "Greg Clark, English businessman and politician, Secretary of State for Communities and Local Government"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1957",
+      "text": "Ivo Josipović, Croatian lawyer, jurist, and politician, 3rd President of Croatia"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1957",
+      "text": "George Merrill, American singer-songwriter and keyboard player (Boy Meets Girl)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1957",
+      "text": "Rick Rossovich, American actor"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1957",
+      "text": "Daniel Stern, American actor and director"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1957",
+      "text": "Ai Weiwei, Chinese sculptor and activist"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1958",
+      "text": "Scott Hamilton, American figure skater and actor"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1958",
+      "text": "Whip Hubley, American actor"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1959",
+      "text": "Brian Thompson, American actor, director, producer, and screenwriter"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1960",
+      "text": "Dinah Cancer, American singer-songwriter (45 Grave and Dinah Cancer and the Grave Robbers)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1960",
+      "text": "Emma Samms, English actress"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1961",
+      "text": "Kim Appleby, English singer-songwriter and actress (Mel and Kim)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1961",
+      "text": "Cliff Benson, American football player"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1961",
+      "text": "Jennifer Coolidge, American actress"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1961",
+      "text": "Ian Pont, English cricketer and coach"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1961",
+      "text": "Deepak Tijori, Indian actor and director"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1962",
+      "text": "Paul Allen, English footballer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1962",
+      "text": "Craig Anton, American actor and screenwriter"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1962",
+      "text": "David Fincher, American director and producer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1963",
+      "text": "Regina Jacobs, American runner"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1963",
+      "text": "Maria Gheorghiu, Romanian folk singer-songwriter"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1964",
+      "text": "Kaj Leo Johannesen, Faroese footballer and politician, 12th Prime Minister of the Faroe Islands"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1965",
+      "text": "Satoshi Tajiri, Japanese video game designer, founded Game Freak"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1965",
+      "text": "Amanda Tapping, Canadian actress, director, and producer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1965",
+      "text": "Shania Twain, Canadian singer-songwriter"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1966",
+      "text": "Priya Dutt, Indian social worker and politician"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1966",
+      "text": "Yoko Takahashi, Japanese singer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1967",
+      "text": "Dominic Lucero, American actor, singer, and dancer (d. 1994)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1967",
+      "text": "Jamie Osborne, English jockey and trainer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1968",
+      "text": "Billy Boyd, Scottish actor and singer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1969",
+      "text": "Jack Black, American actor, singer, guitarist, and producer (Tenacious D)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1969",
+      "text": "Mary McCartney, English photographer and activist"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1969",
+      "text": "Jason Priestley, Canadian-American actor, director, and producer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1969",
+      "text": "Pierre Turgeon, Canadian-American ice hockey player"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1970",
+      "text": "Melina Aslanidou, German-Greek singer-songwriter"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1970",
+      "text": "Sherrié Austin, Australian-American actress and singer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1970",
+      "text": "Rick Recht, American singer-songwriter"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1971",
+      "text": "Shane Andrews, American baseball player"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1971",
+      "text": "Todd Eldredge, American figure skater and coach"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1971",
+      "text": "Janet Evans, American swimmer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1971",
+      "text": "Raúl Márquez, Mexican-American boxer and sportscaster"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1972",
+      "text": "Ravindu Shah, Kenyan cricketer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1972",
+      "text": "Jay Witasick, American baseball player and coach"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1973",
+      "text": "J. August Richards, American actor, director, producer, and screenwriter"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1973",
+      "text": "Matthew John Armstrong, American actor"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1973",
+      "text": "Kirby Morrow, Canadian actor"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1974",
+      "text": "Johan Andersson, Swedish game designer and programmer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1974",
+      "text": "Takahito Eguchi, Japanese pianist and composer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1974",
+      "text": "Carsten Jancker, German footballer and manager"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1974",
+      "text": "Jen Kirkman, American comedian, actress, and screenwriter"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1974",
+      "text": "Kaori Mizuhashi, Japanese voice actress"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1975",
+      "text": "Jamie Cureton, English footballer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1975",
+      "text": "Gareth Farrelly, Irish footballer and manager"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1975",
+      "text": "Yūko Gotō, Japanese voice actress"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1975",
+      "text": "Vera Jordanova, Finnish model and actress"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1975",
+      "text": "Hamish McLachlan, Australian television personality"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1976",
+      "text": "Acel Bisa, Filipino singer-songwriter (Moonstar88)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1976",
+      "text": "Federico Magallanes, Uruguayan footballer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1978",
+      "text": "Jess Margera, American drummer (CKY, Foreign Objects, Viking Skull, and The Company Band)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1979",
+      "text": "Shaila Dúrcal, Spanish singer-songwriter"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1979",
+      "text": "Robert Hoyzer, German footballer and referee"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1979",
+      "text": "Kristen Hughes, Australian netball player"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1979",
+      "text": "Markus Pröll, German footballer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1979",
+      "text": "Ruth Riley, American basketball player"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1980",
+      "text": "Antony Hämäläinen, Finnish singer-songwriter (Meridian Dawn and Armageddon)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1980",
+      "text": "Debra Lafave, American educator and sex offender"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1980",
+      "text": "Jaakko Ojaniemi, Finnish decathlete"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1980",
+      "text": "Carly Pope, Canadian actress and producer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1980",
+      "text": "Jonathan Reynolds, English lawyer and politician"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1981",
+      "text": "Matt Alrich, American lacrosse player"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1981",
+      "text": "Kezia Dugdale, Scottish politician"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1981",
+      "text": "Martin Erat, Czech ice hockey player"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1981",
+      "text": "Daniel Gygax, Swiss footballer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1981",
+      "text": "Raphael Matos, Brazilian race car driver"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1981",
+      "text": "Kelly Misa, Filipino model and actress"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1981",
+      "text": "Jake Owen, American singer-songwriter and guitarist"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1981",
+      "text": "Ahmed Talbi, Moroccan footballer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1981",
+      "text": "Agata Wróbel, Polish weightlifter"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1982",
+      "text": "Anderson Silva de França, Brazilian footballer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1982",
+      "text": "Gionna Cabrera, Filipino model, Binibining Pilipinas-Universe 2005"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1982",
+      "text": "Kevin McNaughton, Scottish footballer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1982",
+      "text": "Thiago Motta, Brazilian-Italian footballer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1982",
+      "text": "LeAnn Rimes, American singer-songwriter and actress"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1982",
+      "text": "Kelly Thiebaud, American actress"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1982",
+      "text": "Karanvir Bohra, Indian actor"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1983",
+      "text": "Ashley Hansen, Australian footballer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1983",
+      "text": "Alfonso Herrera, Mexican actor and singer (RBD)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1983",
+      "text": "Kimberly Kane, American porn actress and director"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1983",
+      "text": "Lasith Malinga, Sri Lankan cricketer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1983",
+      "text": "Luke McAlister, New Zealand rugby player"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1983",
+      "text": "Lilli Schwarzkopf, German heptathlete"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1984",
+      "text": "Michael Galeota, American actor (d. 2016)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1984",
+      "text": "Sarah Roemer, American actress"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1985",
+      "text": "Ashlyne Huff, American singer-songwriter"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1986",
+      "text": "Sarah Christophers, Australian-Filipino actress"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1986",
+      "text": "Jeff Green, American basketball player"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1986",
+      "text": "Armie Hammer, American actor"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1986",
+      "text": "Tommy Hanson, American baseball player (d. 2015)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1986",
+      "text": "Simon Mannering, New Zealand rugby player"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1986",
+      "text": "Gilad Shalit, Israeli soldier and journalist"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1986",
+      "text": "Florence Welch, English singer-songwriter (Florence and the Machine)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1987",
+      "text": "Caleb Moore, American snowmobile racer (d. 2013)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1989",
+      "text": "César Azpilicueta, Spanish footballer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1989",
+      "text": "Valtteri Bottas, Finnish race car driver"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1989",
+      "text": "Jo Kwon, South Korean singer, dancer, and actor (2AM)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1989",
+      "text": "Cassadee Pope, American singer-songwriter (Hey Monday)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1989",
+      "text": "Christina Von Eerie, American wrestler"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1990",
+      "text": "Katie Findlay, Canadian actress"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1990",
+      "text": "Bojan Krkić, Spanish footballer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1990",
+      "text": "Jane Randall, American model"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1991",
+      "text": "Felicio Brown Forbes, German footballer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1991",
+      "text": "Samuel Larsen, American actor and singer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1991",
+      "text": "Kyle Massey, American actor and rapper"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1991",
+      "text": "Andreja Pejić, Bosnian-Australian model"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1992",
+      "text": "Max Collins, American-Filipino model and actress"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1992",
+      "text": "Gabriela Drăgoi, Romanian gymnast"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1992",
+      "text": "Bismack Biyombo, Congolese basketball player"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1993",
+      "text": "Jakub Sokolík, Czech footballer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1993",
+      "text": "Sora Amamiya, Japanese voice actress and singer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1994",
+      "text": "Felix Jaehn, German DJ and producer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1994",
+      "text": "Junior Malanda, Belgian footballer (d. 2015)"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1997",
+      "text": "Emilia McCarthy, Canadian actress and dancer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "1999",
+      "text": "Prince Nikolai of Denmark"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "2001",
+      "text": "Anna Trincher, Ukrainian singer"
+    },
+    {
+      "day": 28,
+      "month": 8,
+      "year": "2003",
+      "text": "Quvenzhané Wallis, American actress and singer"
+    }
+  ]
+}

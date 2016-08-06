@@ -1,0 +1,622 @@
+{
+  "deaths": [
+    {
+      "day": 12,
+      "month": 3,
+      "year": "417",
+      "text": "Pope Innocent I"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "604",
+      "text": "Pope Gregory I (b. 540)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1289",
+      "text": "Demetrius II of Georgia (b. 1259)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1316",
+      "text": "Stefan Dragutin of Serbia (b. 1253)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1374",
+      "text": "Emperor Go-Kōgon of Japan (b. 1336)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1507",
+      "text": "Cesare Borgia, Italian cardinal (b. 1475)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1608",
+      "text": "Kōriki Kiyonaga, Japanese daimyo (b. 1530)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1628",
+      "text": "John Bull, English organist and composer (b. 1562)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1648",
+      "text": "Tirso de Molina, Spanish monk and poet (b. 1571)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1681",
+      "text": "Frans van Mieris the Elder, Dutch painter (b. 1635)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1699",
+      "text": "Peder Griffenfeld, Danish politician (b. 1635)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1703",
+      "text": "Aubrey de Vere, 20th Earl of Oxford (b. 1627)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1790",
+      "text": "András Hadik, Hungarian field marshal (b. 1710)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1820",
+      "text": "Alexander Mackenzie, Scottish explorer and politician (b. 1764)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1832",
+      "text": "Friedrich Kuhlau, German-Danish pianist and composer (b. 1786)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1858",
+      "text": "William James Blacklock, English-Scottish painter (b. 1816)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1872",
+      "text": "Zeng Guofan, Chinese general and politician, Viceroy of Liangjiang (b. 1811)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1894",
+      "text": "Illarion Pryanishnikov, Russian painter (b. 1840)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1898",
+      "text": "Zachris Topelius, Finnish-Swedish journalist, historian, and author (b. 1818)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1909",
+      "text": "Joseph Petrosino, American police officer (b. 1860)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1914",
+      "text": "George Westinghouse, American engineer and businessman (b. 1846)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1916",
+      "text": "Marie von Ebner-Eschenbach, Austrian author (b. 1830)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1925",
+      "text": "Gergely Luthár, Slovenian-Hungarian author (b. 1841)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1925",
+      "text": "Sun Yat-sen, Chinese physician and politician, 1st President of the Republic of China (b. 1866)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1929",
+      "text": "Asa Griggs Candler, American businessman and politician, 44th Mayor of Atlanta (b. 1851)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1929",
+      "text": "William Turner Dannat, American painter (b. 1853)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1930",
+      "text": "William George Barker, Canadian colonel and pilot, Victoria Cross recipient (b. 1894)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1930",
+      "text": "Alois Jirásek, Czech author and playwright (b. 1851)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1935",
+      "text": "Mihajlo Pupin, Serbian-American physicist and chemist (b. 1858)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1937",
+      "text": "Jenő Hubay, Hungarian violinist and composer (b. 1858)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1937",
+      "text": "Charles-Marie Widor, French organist and composer (b. 1844)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1942",
+      "text": "Robert Bosch, German engineer and businessman, founded Robert Bosch GmbH (b. 1861)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1942",
+      "text": "William Henry Bragg, English physicist, chemist, and mathematician, Nobel Prize laureate (b. 1862)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1943",
+      "text": "Gustav Vigeland, Norwegian sculptor (b. 1869)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1945",
+      "text": "Friedrich Fromm, German general (b. 1861)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1946",
+      "text": "Ferenc Szálasi, Hungarian soldier and politician, Head of State of Hungary (b. 1897)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1947",
+      "text": "Winston Churchill, American author and playwright (b. 1871)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1955",
+      "text": "Charlie Parker, American saxophonist and composer (b. 1920)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1960",
+      "text": "Kshitimohan Sen, Indian historian, author, and academic (b. 1880)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1963",
+      "text": "Arthur Grimsdell, English footballer and cricketer (b. 1894)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1971",
+      "text": "August Torma, Estonian soldier and diplomat (b. 1895)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1973",
+      "text": "Frankie Frisch, American baseball player and manager (b. 1898)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1974",
+      "text": "George D. Sax, American banker and businessman (b. 1904)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1975",
+      "text": "Olga Hepnarová, Czech murderer (b. 1951)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1978",
+      "text": "John Cazale, American actor (b. 1935)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1978",
+      "text": "Gene Moore, American baseball player (b. 1909)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1979",
+      "text": "Nader Jahanbani, Iranian general and pilot (b. 1928)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1984",
+      "text": "Arnold Ridley, English actor and playwright (b. 1896)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1985",
+      "text": "Eugene Ormandy, Hungarian-American violinist and conductor (b. 1899)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1987",
+      "text": "Woody Hayes, American football player and coach (b. 1913)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1988",
+      "text": "Romare Bearden, American painter (b. 1911)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1989",
+      "text": "Maurice Evans, English actor and producer (b. 1901)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1991",
+      "text": "Ragnar Granit, Finnish-Swedish neuroscientist and academic, Nobel Prize laureate (b. 1900)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1991",
+      "text": "William Heinesen, Faroese author, poet, and author (b. 1900)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1992",
+      "text": "Hans G. Kresse, Dutch cartoonist (b. 1921)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1992",
+      "text": "Lucy M. Lewis, Acoma Pueblo (Native American) potter (b. ca. 1890)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1995",
+      "text": "Juanin Clay, American actress (b. 1949)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1998",
+      "text": "Jozef Kroner, Slovak actor (b. 1924)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1998",
+      "text": "Beatrice Wood, American painter and potter (b. 1893)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "1999",
+      "text": "Yehudi Menuhin, American-Swiss violinist and conductor (b. 1916)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2001",
+      "text": "Morton Downey, Jr., American singer-songwriter and talk show host (b. 1933)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2001",
+      "text": "Robert Ludlum, American author (b. 1927)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2001",
+      "text": "Victor Westhoff, Dutch botanist and academic (b. 1916)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2002",
+      "text": "Spyros Kyprianou, Cypriot lawyer and politician, 2nd President of Cyprus (b. 1932)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2002",
+      "text": "Jean-Paul Riopelle, Canadian painter and sculptor (b. 1923)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2003",
+      "text": "Zoran Đinđić, Serbian philosopher and politician, 6th Prime Minister of Serbia (b. 1952)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2003",
+      "text": "Howard Fast, American author (b. 1914)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2003",
+      "text": "Andrey Kivilev, Kazakh cyclist (b. 1973)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2003",
+      "text": "Lynne Thigpen, American actress and singer (b. 1948)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2004",
+      "text": "Milton Resnick, Russian-American painter (b. 1917)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2005",
+      "text": "Bill Cameron, Canadian journalist and producer (b. 1943)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2005",
+      "text": "Stavros Kouyioumtzis, Greek composer (b. 1932)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2006",
+      "text": "Victor Sokolov, Russian-American priest and journalist (b. 1947)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2007",
+      "text": "Arnold Drake, American author and screenwriter (b. 1924)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2008",
+      "text": "Jorge Guinzburg, Argentinian journalist and producer (b. 1949)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2008",
+      "text": "Lazare Ponticelli, Italian-French soldier (b. 1897)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2010",
+      "text": "Miguel Delibes, Spanish journalist and author (b. 1920)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2011",
+      "text": "Olive Dickason, Canadian historian and journalist (b. 1920)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2011",
+      "text": "Joe Morello, American drummer (Dave Brubeck Quartet) (b. 1923)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2011",
+      "text": "Nilla Pizzi, Italian singer (b. 1919)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2012",
+      "text": "Hasan Gafoor, Indian police officer (b. 1949)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2012",
+      "text": "Samuel Glazer, American businessman, co-founded Mr. Coffee (b. 1923)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2012",
+      "text": "Dick Harter, American basketball player and coach (b. 1930)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2012",
+      "text": "Michael Hossack, American drummer (The Doobie Brothers) (b. 1946)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2012",
+      "text": "Friedhelm Konietzka, German-Swiss footballer and manager (b. 1938)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2013",
+      "text": "George Burditt, American lawyer and politician (b. 1921)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2013",
+      "text": "Clive Burr, English drummer and songwriter (Iron Maiden, Samson, and Trust) (b. 1957)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2013",
+      "text": "Stanley Cole, American architect (b. 1924)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2013",
+      "text": "Michael Grigsby, English director and producer (b. 1936)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2013",
+      "text": "Ganesh Pyne, Indian painter and illustrator (b. 1937)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2014",
+      "text": "Věra Chytilová, Czech actress, director, and screenwriter (b. 1929)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2014",
+      "text": "Richard Coogan, American actor (b. 1914)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2014",
+      "text": "Paul C. Donnelly, American scientist and engineer (b. 1923)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2014",
+      "text": "Jackie Gaughan, American businessman (b. 1920)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2014",
+      "text": "Shawn Kuykendall, American soccer player (b. 1982)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2014",
+      "text": "Ola L. Mize, American colonel, Medal of Honor recipient (b. 1931)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2014",
+      "text": "José Policarpo, Portuguese cardinal (b. 1936)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2015",
+      "text": "Willie Barrow, American minister and activist (b. 1924)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2015",
+      "text": "Erol Büyükburç, Turkish singer-songwriter and actor (b. 1936)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2015",
+      "text": "Michael Graves, American architect, designed the Portland Building and the Humana Building (b. 1934)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2015",
+      "text": "Ada Jafri, Pakistani poet and author (b. 1924)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2015",
+      "text": "Terry Pratchett, English journalist, author, and screenwriter (b. 1948)"
+    },
+    {
+      "day": 12,
+      "month": 3,
+      "year": "2015",
+      "text": "Carl, Prince of Wied (b. 1961)"
+    }
+  ]
+}

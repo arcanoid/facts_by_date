@@ -1,0 +1,634 @@
+{
+  "deaths": [
+    {
+      "day": 23,
+      "month": 8,
+      "year": "30 BC– Caesarion, Egyptian king (b. 47 BC)",
+      "text": null
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "30 BC",
+      "text": "Marcus Antonius Antyllus, Roman soldier (b. 47 BC)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "93",
+      "text": "Gnaeus Julius Agricola, Roman general and politician (b. 40)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "406",
+      "text": "Radagaisus, Gothic king"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "634",
+      "text": "Abu Bakr, Arabian caliph (b. 573)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "818",
+      "text": "Ali al-Ridha, Iranian 8th of the Twelve Imams (b. 765)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1106",
+      "text": "Magnus, Duke of Saxony (b. 1045)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1176",
+      "text": "Emperor Rokujō of Japan (b. 1164)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1305",
+      "text": "William Wallace, Scottish commander (b. 1272)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1329",
+      "text": "Frederick IV, Duke of Lorraine (b. 1282)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1387",
+      "text": "Olaf II of Denmark (b. 1370)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1478",
+      "text": "Johannes Pullois, Franco-Flemish composer (b. c. 1420?)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1507",
+      "text": "Jean Molinet, French poet and composer (b. 1435)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1519",
+      "text": "Philibert Berthelier, Swiss soldier (b. 1465)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1540",
+      "text": "Guillaume Budé, French philosopher and scholar (b. 1467)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1574",
+      "text": "Ebussuud Efendi, Turkish lawyer and jurist (b. 1490)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1591",
+      "text": "Luis de León, Spanish poet and academic (b. 1527)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1618",
+      "text": "Gerbrand Adriaenszoon Bredero, Dutch poet and playwright (b. 1585)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1628",
+      "text": "George Villiers, 1st Duke of Buckingham, English politician, Lord Lieutenant of Buckinghamshire (b. 1592)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1652",
+      "text": "John Byron, 1st Baron Byron, English soldier and politician (b. 1600)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1706",
+      "text": "Edward Nott, English-American politician, Colonial Governor of Virginia (b. 1654)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1723",
+      "text": "Increase Mather, American minister and author (b. 1639)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1806",
+      "text": "Charles-Augustin de Coulomb, French physicist and engineer (b. 1736)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1813",
+      "text": "Alexander Wilson, Scottish-American poet, ornithologist, and illustrator (b. 1766)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1819",
+      "text": "Oliver Hazard Perry, American commander (b. 1785)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1831",
+      "text": "Ferenc Kazinczy, Hungarian author and poet (b. 1759)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1831",
+      "text": "August Neidhardt von Gneisenau, Prussian field marshal (b. 1760)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1853",
+      "text": "Alexander Calder, American lawyer and politician (b. 1806)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1858",
+      "text": "Antal Reguly, Hungarian linguist and ethnographer (b. 1819)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1867",
+      "text": "Auguste-Marseille Barthélemy, French poet and author (b. 1796)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1892",
+      "text": "Deodoro da Fonseca, Brazilian field marshal and politician, 1st President of Brazil (b. 1827)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1900",
+      "text": "Kuroda Kiyotaka, Japanese general and politician, 2nd Prime Minister of Japan (b. 1840)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1924",
+      "text": "Heinrich Berté, Slovak-Austrian composer (b. 1856)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1926",
+      "text": "Rudolph Valentino, Italian-American actor (b. 1895)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1927",
+      "text": "Nicola Sacco, Italian murderer (b. 1891)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1927",
+      "text": "Bartolomeo Vanzetti, Italian murderer (b. 1888)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1933",
+      "text": "Adolf Loos, Austrian architect and theoretician, designed Villa Müller (b. 1870)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1937",
+      "text": "Albert Roussel, French composer and educator (b. 1869)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1944",
+      "text": "Abdülmecid II, Ottoman sultan (b. 1868)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1944",
+      "text": "Stefan Filipkiewicz, Polish painter and illustrator (b. 1879)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1949",
+      "text": "Helen Churchill Candee, American geographer, journalist, and author (b. 1858)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1954",
+      "text": "Jaan Sarv, Estonian mathematician and scholar (b. 1877)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1955",
+      "text": "Reginald Tate, English actor (b. 1896)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1960",
+      "text": "Oscar Hammerstein II, American director, producer, and composer (b. 1895)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1962",
+      "text": "Walter Anderson, Russian-German ethnologist and academic (b. 1885)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1962",
+      "text": "Hoot Gibson, American actor, director, and producer (b. 1892)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1963",
+      "text": "Glen Gray, American saxophonist and bandleader (Casa Loma Orchestra) (b. 1900)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1966",
+      "text": "Francis X. Bushman, American actor, director, and screenwriter (b. 1883)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1967",
+      "text": "Georges Berger, Belgian race car driver (b. 1918)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1967",
+      "text": "Nathaniel Cartmell, American runner and coach (b. 1883)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1974",
+      "text": "Roberto Assagioli, Italian psychiatrist and author (b. 1888)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1975",
+      "text": "Faruk Gürler, Turkish general (b. 1913)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1977",
+      "text": "Naum Gabo, Russian sculptor and academic (b. 1890)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1982",
+      "text": "Stanford Moore, American biochemist and academic, Nobel Prize laureate (b. 1913)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1987",
+      "text": "Didier Pironi, French race car driver (b. 1952)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1989",
+      "text": "Mohammed Abed Elhai, Sudanese poet and academic (b. 1944)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1989",
+      "text": "R. D. Laing, Scottish psychiatrist and author (b. 1927)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1990",
+      "text": "David Rose, American pianist and composer (b. 1910)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1994",
+      "text": "Zoltán Fábri, Hungarian director and screenwriter (b. 1917)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1995",
+      "text": "Alfred Eisenstaedt, German-American photographer and journalist (b. 1898)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1995",
+      "text": "Dwayne Goettel, Canadian keyboard player (Skinny Puppy, Psyche, and Hilt) (b. 1964)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1996",
+      "text": "Margaret Tucker, Australian author and activist (b. 1904)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1997",
+      "text": "Eric Gairy, Grenadian educator and politician, 1st Prime Minister of Grenada (b. 1922)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1997",
+      "text": "John Kendrew, English biochemist and crystallographer, Nobel Prize laureate (b. 1917)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1999",
+      "text": "Norman Wexler, American screenwriter (b. 1926)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "1999",
+      "text": "James White, Irish author (b. 1928)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2000",
+      "text": "John Anthony Kaiser, American priest and missionary (b. 1932)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2001",
+      "text": "Kathleen Freeman, American actress and singer (b. 1919)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2001",
+      "text": "Peter Maas, American journalist and author (b. 1929)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2002",
+      "text": "Hoyt Wilhelm, American baseball player and coach (b. 1922)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2003",
+      "text": "Bobby Bonds, American baseball player and manager (b. 1946)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2003",
+      "text": "Jack Dyer, Australian footballer and coach (b. 1913)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2003",
+      "text": "John Geoghan, American priest (b. 1935)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2003",
+      "text": "Jan Sedivka, Czech-Australian violinist and educator (b. 1917)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2003",
+      "text": "Michael Kijana Wamalwa, Kenyan lawyer and politician, 8th Vice President of Kenya (b. 1944)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2005",
+      "text": "Brock Peters, American actor and producer (b. 1927)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2006",
+      "text": "Maynard Ferguson, Canadian trumpet player and bandleader (Big Bop Nouveau) (b. 1928)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2007",
+      "text": "Robert Symonds, American actor (b. 1926)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2008",
+      "text": "Ruth Cohen, American actress (b. 1930)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2008",
+      "text": "John Russell, English-American author and critic (b. 1919)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2012",
+      "text": "Col Campbell, New Zealand radio and television host (b. 1933)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2012",
+      "text": "Jean-Luc Delarue, French television host and producer (b. 1964)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2012",
+      "text": "Byard Lancaster, American saxophonist and flute player (b. 1942)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2012",
+      "text": "Merv Neagle, Australian footballer and coach (b. 1958)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2012",
+      "text": "Jerry Nelson, American puppeteer and voice actor (b. 1934)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2012",
+      "text": "Josepha Sherman, American anthologist and author (b. 1946)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2012",
+      "text": "Steve Van Buren, Honduran-American football player (b. 1920)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2013",
+      "text": "Richard J. Corman, American businessman, founded the R.J. Corman Railroad Group (b. 1955)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2013",
+      "text": "David Garrick, English singer (b. 1945)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2013",
+      "text": "William Glasser, American psychiatrist and author (b. 1925)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2013",
+      "text": "Charles Lisanby, American production designer and set director (b. 1924)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2013",
+      "text": "Konstanty Miodowicz, Polish ethnographer and politician (b. 1951)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2013",
+      "text": "Vesna Rožič, Slovenian chess player (b. 1987)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2013",
+      "text": "Tatyana Zaslavskaya, Russian sociologist and economist (b. 1927)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2014",
+      "text": "Albert Ebossé Bodjongo, Cameroonian footballer (b. 1989)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2014",
+      "text": "Inga Juuso, Norwegian singer and actress (b. 1945)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2014",
+      "text": "Annefleur Kalvenhaar, Dutch cyclist (b. 1994)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2014",
+      "text": "Dan Magill, American swimmer, tennis player, and coach (b. 1921)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2014",
+      "text": "Birgitta Stenberg, Swedish author and illustrator (b. 1932)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2014",
+      "text": "Jaume Vallcorba Plana, Spanish philologist and publisher (b. 1949)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2015",
+      "text": "Augusta Chiwy, Congolese-Belgian nurse (b. 1921)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2015",
+      "text": "Guy Ligier, French rugby player and race car driver (b. 1930)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2015",
+      "text": "Yosi Piamenta, Israeli-American singer-songwriter and guitarist (b. 1951)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2015",
+      "text": "Enrique Reneau, Honduran footballer (b. 1971)"
+    },
+    {
+      "day": 23,
+      "month": 8,
+      "year": "2015",
+      "text": "Paul Royle, Australian lieutenant and pilot (b. 1914)"
+    }
+  ]
+}

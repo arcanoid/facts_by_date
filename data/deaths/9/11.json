@@ -1,0 +1,946 @@
+{
+  "deaths": [
+    {
+      "day": 11,
+      "month": 9,
+      "year": "883",
+      "text": "Kesta Styppiotes, Byzantine general"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1063",
+      "text": "Béla I of Hungary (b. 1016)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1161",
+      "text": "Melisende, Queen of Jerusalem (b. 1105)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1185",
+      "text": "Stephen Hagiochristophorites, Byzantine courtier (b. 1130)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1279",
+      "text": "Robert Kilwardby, English cardinal (b. 1215)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1298",
+      "text": "Philip of Artois (b. 1269)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1349",
+      "text": "Bonne of Bohemia (b. 1315)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1599",
+      "text": "Beatrice Cenci, Italian murderer (b. 1577)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1677",
+      "text": "James Harrington, English philosopher and author (b. 1611)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1680",
+      "text": "Roger Crab, English soldier and doctor (b. 1621)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1680",
+      "text": "Emperor Go-Mizunoo of Japan (b. 1596)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1721",
+      "text": "Rudolf Jakob Camerarius, German botanist and physician (b. 1665)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1733",
+      "text": "François Couperin, French organist and composer (b. 1668)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1760",
+      "text": "Louis Godin, French astronomer and academic (b. 1704)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1822",
+      "text": "Fortunat Alojzy Gonzaga Żółkowski, Polish actor (b. 1777)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1823",
+      "text": "David Ricardo, English economist and politician (b. 1772)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1843",
+      "text": "Joseph Nicollet, French mathematician and explorer (b. 1786)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1851",
+      "text": "Sylvester Graham, American minister and nutritionist (b. 1794)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1865",
+      "text": "Christophe Léon Louis Juchault de Lamoricière, French general (b. 1806)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1888",
+      "text": "Domingo Faustino Sarmiento, Argentinian journalist and politician, 7th President of Argentina (b. 1811)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1896",
+      "text": "Francis James Child, American scholar and educator (b. 1825)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1911",
+      "text": "Louis Henri Boussenard, French explorer and author (b. 1847)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1915",
+      "text": "William Sprague IV, American businessman and politician, 27th Governor of Rhode Island (b. 1830)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1915",
+      "text": "William Cornelius Van Horne, American-Canadian businessman (b. 1843)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1917",
+      "text": "Georges Guynemer, French captain and pilot (b. 1894)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1921",
+      "text": "Subramanya Bharathi, Indian journalist, poet, and activist (b. 1882)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1923",
+      "text": "Ole Østmo, Norwegian target shooter (b. 1866)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1926",
+      "text": "Matsunosuke Onoe, Japanese actor and director (b. 1875)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1932",
+      "text": "Stanisław Wigura, Polish pilot and businessman, co-founded the RWD Company (b. 1901)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1932",
+      "text": "Franciszek Żwirko, Polish soldier and pilot (b. 1895)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1935",
+      "text": "Charles Norris, American coroner (b. 1867)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1937",
+      "text": "Nazmi Ziya Güran, Turkish Impressionist painter and art teacher (b. 1881)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1939",
+      "text": "Konstantin Korovin, Russian-French painter and set designer (b. 1861)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1941",
+      "text": "Christian Rakovsky, Bulgarian physician, journalist, and politician, Soviet Ambassador to France (b. 1873)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1947",
+      "text": "Alice Keppel, Scottish mistress of Edward VII (b. 1868)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1948",
+      "text": "Muhammad Ali Jinnah, Pakistani lawyer and politician, 1st Governor-General of Pakistan (b. 1876)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1949",
+      "text": "Henri Rabaud, French composer and conductor (b. 1873)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1950",
+      "text": "Jan Smuts, South African field marshal and politician, 2nd Prime Minister of South Africa (b. 1870)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1952",
+      "text": "Alfrēds Riekstiņš, Latvian military officer and freedom fighter (d. 1913)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1956",
+      "text": "Billy Bishop, Canadian colonel and pilot (b. 1894)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1957",
+      "text": "James Burns, English cricketer (b. 1866)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1957",
+      "text": "Mary Proctor, American astronomer (b. 1862)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1958",
+      "text": "Camillien Houde, Canadian politician, 34th Mayor of Montreal (b. 1889)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1958",
+      "text": "Robert W. Service, English-French poet and author (b. 1874)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1959",
+      "text": "Paul Douglas, American actor (b. 1907)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1964",
+      "text": "Gajanan Madhav Muktibodh, Indian poet and critic (b. 1917)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1965",
+      "text": "Ralph C. Smedley, American educator, founded Toastmasters International (b. 1878)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1966",
+      "text": "Collett E. Woolman, American businessman, co-founded Delta Air Lines (b. 1889)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1967",
+      "text": "Tadeusz Żyliński, Polish engineer and academic (b. 1904)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1968",
+      "text": "René Cogny, French general (b. 1904)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1970",
+      "text": "Boes Boestami, Indonesian actor and journalist (b. 1922)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1971",
+      "text": "Bella Darvi, Polish-Monacan actress (b. 1928)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1971",
+      "text": "Nikita Khrushchev, Russian general and politician (b. 1894)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1972",
+      "text": "Max Fleischer, American animator, director, and producer (b. 1883)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1973",
+      "text": "Salvador Allende, Chilean physician and politician, 29th President of Chile (b. 1908)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1973",
+      "text": "Neem Karoli Baba, Indian philosopher and guru"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1974",
+      "text": "Lois Lenski, American author and illustrator (b. 1893)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1978",
+      "text": "Mike Gazella, American baseball player and manager (b. 1895)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1978",
+      "text": "Georgi Markov, Bulgarian author and playwright (b. 1929)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1978",
+      "text": "Janet Parker, English photographer (b. 1938)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1978",
+      "text": "Ronnie Peterson, Swedish race car driver (b. 1944)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1984",
+      "text": "Jerry Voorhis, American politician (b. 1901)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1985",
+      "text": "William Alwyn, English composer, conductor, and educator (b. 1905)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1985",
+      "text": "Eleanor Dark, Australian author (b. 1901)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1986",
+      "text": "Panagiotis Kanellopoulos, Greek academic and politician, 138th Prime Minister of Greece (b. 1902)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1986",
+      "text": "Noel Streatfeild, English author (b. 1895)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1987",
+      "text": "Lorne Greene, Canadian-American actor (b. 1915)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1987",
+      "text": "Peter Tosh, Jamaican singer-songwriter and guitarist (Bob Marley and the Wailers) (b. 1944)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1987",
+      "text": "Mahadevi Varma, Indian poet and educator (b. 1907)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1988",
+      "text": "Roger Hargreaves, English author and illustrator (b. 1935)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1990",
+      "text": "Myrna Mack, Guatemalan anthropologist and activist (b. 1949)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1991",
+      "text": "Ernst Herbeck, Austrian-German poet (b. 1920)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1993",
+      "text": "Antoine Izméry, Haitian businessman and activist"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1993",
+      "text": "Erich Leinsdorf, Austrian-American conductor (b. 1912)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1994",
+      "text": "Jessica Tandy, English-American actress and singer (b. 1909)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1994",
+      "text": "Luciano Sgrizzi, Italian harpsichordist, pianist, and composer (b. 1910)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1995",
+      "text": "Anita Harding, English neurologist and academic (b. 1952)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1997",
+      "text": "Camille Henry, Canadian ice hockey player and coach (b. 1933)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1997",
+      "text": "Hannah Weiner, American poet (b. 1928)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1998",
+      "text": "Dane Clark, American actor and director (b. 1913)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1999",
+      "text": "Belkis Ayón, Cuban painter and lithographer (b. 1967)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "1999",
+      "text": "Gonzalo Rodríguez, Uruguayan race car driver (b. 1972)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2001",
+      "text": "Alice Stewart Trillin, American author and educator (b. 1938)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2001",
+      "text": "Casualties of the September 11 attacks:\n\nDavid Angell, American screenwriter and producer (b. 1946)\nMohamed Atta, Egyptian terrorist, hijacker of American Airlines Flight 11 (b. 1968)\nGarnet Bailey, Canadian-American ice hockey player (b. 1948)\nTodd Beamer, American passenger on United Airlines Flight 93 (b. 1968)\nBerry Berenson, American photographer, actress, and model (b. 1948)\nCarolyn Beug, American director and producer (b. 1952)\nBill Biggart, American photographer and journalist (b. 1947)\nMark Bingham, American businessman (b. 1970)\nRonald Paul Bucca, American fire marshal (b. 1954)\nCharles Burlingame, American captain and pilot (b. 1949)\nTom Burnett, American businessman (b. 1963)\nWilliam M. Feehan, American firefighter (b. 1929)\nWilson Flagg, American admiral (b. 1938)\nPeter J. Ganci, Jr., American firefighter (b. 1946)\nAhmed al-Ghamdi, Saudi Arabian terrorist, hijacker of United Airlines Flight 175 (b. 1979)\nHamza al-Ghamdi, Saudi Arabian terrorist, hijacker of United Airlines Flight 175 (b. 1980)\nHani Hanjour, Saudi Arabian terrorist, hijacker–pilot of American Airlines Flight 77 (b. 1972)\nNawaf al-Hazmi, Saudi Arabian terrorist, hijacker of American Airlines Flight 77 (b. 1976)\nSalem al-Hazmi, Saudi Arabian terrorist, hijacker of American Airlines Flight 77 (b. 1981)\nZiad Jarrah, Lebanese terrorist, hijacker of United Airlines Flight 93 (b. 1975)\nMychal Judge, American priest (b. 1933)\nDaniel M. Lewin, American mathematician and businessman, co-founded Akamai Technologies (b. 1970)\nTimothy Maude, American general (b. 1947)\nEamon McEneaney, American lacrosse player and poet (b. 1954)\nKhalid al-Mihdhar, Saudi Arabian terrorist, hijacker of American Airlines Flight 77 (b. 1975)\nMajed Moqed, Saudi Arabian terrorist, hijacker of American Airlines Flight 77 (b. 1977)\nJohn P. O'Neill, American FBI agent (b. 1952)\nJohn Ogonowski, American pilot (b. 1951)\nBarbara Olson, American lawyer and journalist (b. 1955)\nAbdulaziz al-Omari, Saudi Arabian terrorist, hijacker of American Airlines Flight 11 (b. 1979)\nBetty Ong, American flight attendant (b. 1956)\nRick Rescorla, Cornish-American colonel (b. 1939)\nMarwan al-Shehhi, Emirati terrorist, hijacker–pilot of United Airlines Flight 175 (b. 1978)\nWail al-Shehri, Saudi Arabian terrorist, hijacker of American Airlines Flight 11 (b. 1973)\nMadeline Amy Sweeney, American flight attendant (b. 1966)\n\n"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "David Angell, American screenwriter and producer (b. 1946)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Mohamed Atta, Egyptian terrorist, hijacker of American Airlines Flight 11 (b. 1968)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Garnet Bailey, Canadian-American ice hockey player (b. 1948)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Todd Beamer, American passenger on United Airlines Flight 93 (b. 1968)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Berry Berenson, American photographer, actress, and model (b. 1948)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Carolyn Beug, American director and producer (b. 1952)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Bill Biggart, American photographer and journalist (b. 1947)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Mark Bingham, American businessman (b. 1970)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Ronald Paul Bucca, American fire marshal (b. 1954)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Charles Burlingame, American captain and pilot (b. 1949)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Tom Burnett, American businessman (b. 1963)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "William M. Feehan, American firefighter (b. 1929)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Wilson Flagg, American admiral (b. 1938)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Peter J. Ganci, Jr., American firefighter (b. 1946)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Ahmed al-Ghamdi, Saudi Arabian terrorist, hijacker of United Airlines Flight 175 (b. 1979)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Hamza al-Ghamdi, Saudi Arabian terrorist, hijacker of United Airlines Flight 175 (b. 1980)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Hani Hanjour, Saudi Arabian terrorist, hijacker–pilot of American Airlines Flight 77 (b. 1972)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Nawaf al-Hazmi, Saudi Arabian terrorist, hijacker of American Airlines Flight 77 (b. 1976)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Salem al-Hazmi, Saudi Arabian terrorist, hijacker of American Airlines Flight 77 (b. 1981)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Ziad Jarrah, Lebanese terrorist, hijacker of United Airlines Flight 93 (b. 1975)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Mychal Judge, American priest (b. 1933)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Daniel M. Lewin, American mathematician and businessman, co-founded Akamai Technologies (b. 1970)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Timothy Maude, American general (b. 1947)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Eamon McEneaney, American lacrosse player and poet (b. 1954)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Khalid al-Mihdhar, Saudi Arabian terrorist, hijacker of American Airlines Flight 77 (b. 1975)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Majed Moqed, Saudi Arabian terrorist, hijacker of American Airlines Flight 77 (b. 1977)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "John P. O'Neill, American FBI agent (b. 1952)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "John Ogonowski, American pilot (b. 1951)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Barbara Olson, American lawyer and journalist (b. 1955)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Abdulaziz al-Omari, Saudi Arabian terrorist, hijacker of American Airlines Flight 11 (b. 1979)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Betty Ong, American flight attendant (b. 1956)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Rick Rescorla, Cornish-American colonel (b. 1939)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Marwan al-Shehhi, Emirati terrorist, hijacker–pilot of United Airlines Flight 175 (b. 1978)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Wail al-Shehri, Saudi Arabian terrorist, hijacker of American Airlines Flight 11 (b. 1973)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "Madeline Amy Sweeney, American flight attendant (b. 1966)",
+      "text": null
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2002",
+      "text": "Kim Hunter, American actress (b. 1922)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2002",
+      "text": "Johnny Unitas, American football player and sportscaster (b. 1933)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2002",
+      "text": "David Wisniewski, American author and illustrator (b. 1953)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2003",
+      "text": "Anna Lindh, Swedish politician, 39th Minister of Foreign Affairs for Sweden (b. 1957)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2003",
+      "text": "John Ritter, American actor and producer (b. 1948)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2004",
+      "text": "Fred Ebb, American songwriter (b. 1928)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2004",
+      "text": "David Mann, American painter and illustrator (b. 1939)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2004",
+      "text": "Patriarch Peter VII of Alexandria (b. 1949)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2006",
+      "text": "William Auld, Scottish poet and author (b. 1924)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2006",
+      "text": "Joachim Fest, German journalist and author (b. 1926)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2007",
+      "text": "Ian Porterfield, Scottish-English footballer and manager (b. 1946)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2007",
+      "text": "Gene Savoy, American explorer, theologian, and author (b. 1927)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2007",
+      "text": "Jean Séguy, French sociologist and author (b. 1925)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2007",
+      "text": "Joe Zawinul, Austrian keyboard player and songwriter (Weather Report) (b. 1932)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2009",
+      "text": "Pierre Cossette, Canadian producer and manager (b. 1923)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2009",
+      "text": "Larry Gelbart, American director, producer, and screenwriter (b. 1928)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2009",
+      "text": "Yoshito Usui, Japanese author and illustrator (b. 1958)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2010",
+      "text": "Harold Gould, American actor (b. 1923)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2010",
+      "text": "Kevin McCarthy, American actor (b. 1914)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2011",
+      "text": "Christian Bakkerud, Danish race car driver (b. 1984)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2011",
+      "text": "Ralph Gubbins, English footballer (b. 1932)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2011",
+      "text": "Anjali Gupta, Indian soldier and pilot (b. 1975)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2012",
+      "text": "Finn Bergesen, Norwegian civil servant and businessman (b. 1945)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2012",
+      "text": "Tomas Evjen, Norwegian cinematographer and producer (b. 1972)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2012",
+      "text": "Manuel Salvat Dalmau, Spanish publisher (b. 1925)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2012",
+      "text": "Sean Smith, American diplomat (b. 1978)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2012",
+      "text": "J. Christopher Stevens, American lawyer and diplomat, 10th United States Ambassador to Libya (b. 1960)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2013",
+      "text": "Marshall Berman, American philosopher, author, and critic (b. 1940)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2013",
+      "text": "Francisco Chavez, Filipino lawyer and politician, Solicitor-General of the Philippines (b. 1947)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2013",
+      "text": "Keith Dunstan, American-Australian journalist and author (b. 1925)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2013",
+      "text": "Albert Jacquard, French geneticist and biologist (b. 1925)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2013",
+      "text": "Virgil A. Richard, American general (b. 1937)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2013",
+      "text": "Andrzej Trybulec, Polish mathematician and computer scientist (b. 1941)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2014",
+      "text": "Bob Crewe, American singer-songwriter and producer (b. 1930)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2014",
+      "text": "Antoine Duhamel, French composer and conductor (b. 1925)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2014",
+      "text": "Kendall Francois, American serial killer (b. 1971)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2014",
+      "text": "Donald Sinden, English actor (b. 1923)"
+    },
+    {
+      "day": 11,
+      "month": 9,
+      "year": "2015",
+      "text": "Dennis Paul Hebert, American businessman and politician (b. 1926)"
+    }
+  ]
+}

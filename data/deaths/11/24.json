@@ -1,0 +1,622 @@
+{
+  "deaths": [
+    {
+      "day": 24,
+      "month": 11,
+      "year": "654",
+      "text": "Emperor Kōtoku of Japan (b. 596)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1072",
+      "text": "Bagrat IV of Georgia (b. 1018)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1265",
+      "text": "Magnus Olafsson, Manx king"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1326",
+      "text": "Hugh Despenser the Younger, English courtier (b. 1296)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1468",
+      "text": "Jean de Dunois, French soldier (b. 1402)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1531",
+      "text": "Johannes Oecolampadius, German theologian and reformer (b. 1482)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1572",
+      "text": "John Knox, Scottish pastor and theologian (b. 1510)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1583",
+      "text": "René de Birague, French cardinal (b. 1506)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1615",
+      "text": "Sethus Calvisius, German composer and theorist (b. 1556)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1650",
+      "text": "Manuel Cardoso, Portuguese organist and composer (b. 1566)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1675",
+      "text": "Guru Tegh Bahadur, Indian guru (b. 1621)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1722",
+      "text": "Johann Adam Reincken, Dutch-German organist and composer (b. 1623)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1741",
+      "text": "Ulrika Eleonora, Queen of Sweden (b. 1688)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1770",
+      "text": "Charles-Jean-François Hénault, French historian and author (b. 1685)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1775",
+      "text": "Lorenzo Ricci, Italian religious leader, 18th Superior General of the Society of Jesus (b. 1703)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1781",
+      "text": "James Caldwell, American minister (b. 1734)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1793",
+      "text": "Clément Charles François de Laverdy, French lawyer and politician, French Minister of Finance (b. 1723)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1801",
+      "text": "Franz Moritz von Lacy, Austrian field marshal (b. 1725)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1807",
+      "text": "Joseph Brant, American tribal leader (b. 1742)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1848",
+      "text": "William Lamb, 2nd Viscount Melbourne, English politician, Prime Minister of the United Kingdom (b. 1779)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1870",
+      "text": "Comte de Lautréamont, Uruguayan-French poet and author (b. 1846)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1885",
+      "text": "Nicolás Avellaneda, Argentinian journalist and politician, 8th President of Argentina (b. 1837)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1890",
+      "text": "August Belmont, German-American banker and politician, 16th United States Ambassador to the Netherlands (b. 1816)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1916",
+      "text": "Hiram Maxim, American-English engineer, invented the Maxim gun (b. 1840)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1920",
+      "text": "Lado Aleksi-Meskhishvili, Georgian actor and director (b. 1857)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1920",
+      "text": "Alexandru Macedonski, Romanian author and poet (b. 1854)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1922",
+      "text": "Robert Erskine Childers, Irish soldier, journalist, and author (b. 1870)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1929",
+      "text": "Georges Clemenceau, French physician, publisher, and politician, 72nd Prime Minister of France (b. 1841)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1936",
+      "text": "Lucio Godina, Filipino conjoined twin (b. 1908)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1943",
+      "text": "Doris Miller, American soldier and chef, Medal of Honor recipient (b. 1919)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1948",
+      "text": "Anna Jarvis, American founder of Mother's Day (b. 1864)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1956",
+      "text": "Guido Cantelli, Italian conductor (b. 1920)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1957",
+      "text": "Diego Rivera, Mexican painter and sculptor (b. 1886)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1958",
+      "text": "Robert Cecil, 1st Viscount Cecil of Chelwood, English lawyer and politician, Chancellor of the Duchy of Lancaster, Nobel Prize laureate (b. 1864)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1959",
+      "text": "Dally Messenger, Australian rugby player, cricketer, and sailor (b. 1883)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1960",
+      "text": "Grand Duchess Olga Alexandrovna of Russia (b. 1882)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1961",
+      "text": "Ruth Chatterton, American actress and singer (b. 1893)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1963",
+      "text": "Lee Harvey Oswald, American assassin of John F. Kennedy (b. 1939)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1964",
+      "text": "Herbert Johanson, Estonian architect (b. 1884)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1965",
+      "text": "Abdullah III Al-Salim Al-Sabah, Kuwaiti ruler (b. 1895)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1967",
+      "text": "Louis Fratto, American gangster (b. 1908)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1968",
+      "text": "D. A. Levy, American poet and publisher (b. 1942)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1973",
+      "text": "John Neihardt, American author and poet (b. 1881)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1980",
+      "text": "Herbert Agar, American journalist and historian (b. 1897)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1980",
+      "text": "George Raft, American actor, singer, and dancer (b. 1895)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1980",
+      "text": "Henrietta Hill Swope, American astronomer and academic (b. 1902)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1982",
+      "text": "Barack Obama, Sr., Kenyan economist and academic (b. 1936)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1985",
+      "text": "Big Joe Turner, American singer (b. 1911)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1987",
+      "text": "Jehane Benoît, Canadian journalist and author (b. 1904)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1990",
+      "text": "Juan Manuel Bordeu, Argentinian race car driver (b. 1934)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1990",
+      "text": "Fred Shero, Canadian ice hockey player and coach (b. 1925)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1990",
+      "text": "Dodie Smith, English author and playwright (b. 1896)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1990",
+      "text": "Marion Post Wolcott, American photographer (b. 1910)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1990",
+      "text": "Bülent Arel, Turkish-American composer and educator (b. 1919)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1991",
+      "text": "Eric Carr, American drummer and songwriter (KISS) (b. 1950)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1991",
+      "text": "Freddie Mercury, Zanzibari-English singer-songwriter and producer (Queen and Ibex) (b. 1946)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1993",
+      "text": "Albert Collins, American singer-songwriter and guitarist (b. 1932)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1995",
+      "text": "Eduard Ole, Estonian-Swedish painter (b. 1898)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1996",
+      "text": "Sorley MacLean, Scottish soldier and poet (b. 1911)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1997",
+      "text": "Barbara, French singer-songwriter and actress (b. 1930)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "1999",
+      "text": "Hilary Minster, English actor (b. 1944)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2001",
+      "text": "Melanie Thornton, American-German singer (La Bouche) (b. 1967)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2002",
+      "text": "John Rawls, American philosopher, author, and academic (b. 1921)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2003",
+      "text": "Snowflake, Spanish gorilla (b. 1964)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2003",
+      "text": "Warren Spahn, American baseball player and coach (b. 1921)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2004",
+      "text": "Arthur Hailey, English-Canadian journalist and author (b. 1920)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2004",
+      "text": "Joseph Hansen, American author and poet (b. 1923)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2004",
+      "text": "James Wong, Chinese actor and songwriter (b. 1940)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2005",
+      "text": "Pat Morita, American actor, singer, and screenwriter (b. 1932)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2006",
+      "text": "Juice Leskinen, Finnish singer-songwriter (b. 1950)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2006",
+      "text": "George W. S. Trow, American author, playwright, and critic (b. 1943)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2006",
+      "text": "Zdeněk Veselovský, Czech zoologist and ethologist (b. 1938)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2007",
+      "text": "Casey Calvert, American guitarist (Hawthorne Heights) (b. 1981)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2008",
+      "text": "Kenny MacLean, Scottish-Canadian bass player and songwriter (Platinum Blonde) (b. 1956)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2008",
+      "text": "Cecil H. Underwood, American educator and politician, 25th Governor of West Virginia (b. 1922)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2009",
+      "text": "Chan Hung-lit, Chinese actor and director (b. 1943)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2009",
+      "text": "Abe Pollin, American businessman and philanthropist (b. 1923)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2009",
+      "text": "Samak Sundaravej, Thai politician, 25th Prime Minister of Thailand (b. 1935)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2009",
+      "text": "Jun Ross, Filipino basketball player (b. 1949)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2010",
+      "text": "Huang Hua, Chinese translator and politician, 5th Foreign Minister of the People's Republic of China (b. 1913)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2012",
+      "text": "Héctor Camacho, Puerto Rican boxer and singer (b. 1962)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2012",
+      "text": "Antoine Kohn, Luxembourgian footballer and manager (b. 1933)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2012",
+      "text": "Tony Leblanc, Spanish actor, director, and screenwriter (b. 1922)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2012",
+      "text": "Jimmy Stewart, American baseball player and manager (b. 1939)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2012",
+      "text": "Nicholas Turro, American chemist and academic (b. 1938)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2012",
+      "text": "Ernie Warlick, American football player and sportscaster (b. 1932)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2013",
+      "text": "Matthew Bucksbaum, American businessman and philanthropist, co-founded General Growth Properties (b. 1926)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2013",
+      "text": "Arnaud Coyot, French cyclist (b. 1980)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2013",
+      "text": "Lou Hyndman, Canadian lawyer and politician (b. 1935)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2013",
+      "text": "June Keithley, Filipino actress and journalist (b. 1947)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2013",
+      "text": "Jean King, American politician, 6th Lieutenant Governor of Hawaii (b. 1925)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2013",
+      "text": "Robin Leigh-Pemberton, Baron Kingsdown, English banker and politician, Governor of the Bank of England (b. 1927)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2013",
+      "text": "Matti Ranin, Finnish actor (b. 1926)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2014",
+      "text": "Jorge Herrera Delgado, Mexican engineer and politician (b. 1961)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2014",
+      "text": "Murli Deora, Indian politician, Indian Minister of Corporate Affairs (b. 1937)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2014",
+      "text": "Peter Henderson, New Zealand rugby player (b. 1926)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2014",
+      "text": "Nenad Manojlović, Serbian water polo player and manager (b. 1957)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2014",
+      "text": "Viktor Tikhonov, Russian ice hockey player and coach (b. 1930)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2015",
+      "text": "Robert Ford, English general (b. 1923)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2015",
+      "text": "John Forrester, English historian and philosopher (b. 1949)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2015",
+      "text": "Quincy Monk, American football player (b. 1979)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2015",
+      "text": "Heinz Oberhummer, Austrian physicist, astronomer, and academic (b. 1941)"
+    },
+    {
+      "day": 24,
+      "month": 11,
+      "year": "2015",
+      "text": "Douglas W. Shorenstein, American businessman (b. 1955)"
+    }
+  ]
+}

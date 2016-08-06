@@ -1,0 +1,634 @@
+{
+  "deaths": [
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1135",
+      "text": "Henry I of England (b. 1068)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1241",
+      "text": "Isabella of England (b. 1214)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1433",
+      "text": "Emperor Go-Komatsu of Japan (b. 1377)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1455",
+      "text": "Lorenzo Ghiberti, Italian goldsmith and sculptor (b. 1378)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1521",
+      "text": "Pope Leo X (b. 1475)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1530",
+      "text": "Margaret of Austria, Duchess of Savoy (b. 1480)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1580",
+      "text": "Giovanni Morone, Italian cardinal (b. 1509)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1581",
+      "text": "Alexander Briant, English martyr and saint (b. 1556)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1581",
+      "text": "Edmund Campion, English priest, martyr, and saint (b. 1540)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1581",
+      "text": "Ralph Sherwin, English martyr and saint (b. 1550)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1602",
+      "text": "Kobayakawa Hideaki, Japanese daimyo (b. 1582)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1633",
+      "text": "Isabella Clara Eugenia, Spanish wife of Albert VII, Archduke of Austria (b. 1566)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1640",
+      "text": "Miguel de Vasconcelos, Portuguese politician, Prime Minister of Portugal (b. 1590)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1660",
+      "text": "Pierre d'Hozier, French genealogist and historian (b. 1592)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1709",
+      "text": "Abraham a Sancta Clara, Austrian monk (b. 1644)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1723",
+      "text": "Susanna Centlivre, English actress and playwright (b. 1667)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1729",
+      "text": "Giacomo F. Maraldi, French-Italian astronomer and mathematician (b. 1665)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1750",
+      "text": "Johann Gabriel Doppelmayr, German mathematician, astronomer, and cartographer (b. 1671)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1755",
+      "text": "Maurice Greene, English organist and composer (b. 1696)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1767",
+      "text": "Henry Erskine, 10th Earl of Buchan, Scottish politician (b. 1710)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1825",
+      "text": "Alexander I of Russia (b. 1777)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1865",
+      "text": "Abraham Emanuel Fröhlich, Swiss pastor, poet, and educator (b. 1796)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1866",
+      "text": "George Everest, Welsh geographer and surveyor (b. 1790)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1867",
+      "text": "Charles Gray Round, English lawyer and politician (b. 1797)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1884",
+      "text": "William Swainson, English-New Zealand lawyer and politician, Attorney-General of the Crown Colony of New Zealand (b. 1809)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1913",
+      "text": "Juhan Liiv, Estonian poet and author (b. 1864)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1914",
+      "text": "Alfred Thayer Mahan, American captain and historian (b. 1840)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1916",
+      "text": "Charles de Foucauld, French priest and martyr (b. 1858)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1923",
+      "text": "Virginie Loveling, Belgian author and poet (b. 1836)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1928",
+      "text": "José Eustasio Rivera, Colombian-American lawyer and poet (b. 1888)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1933",
+      "text": "Pekka Halonen, Finnish painter (b. 1865)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1934",
+      "text": "Sergey Kirov, Russian engineer and politician (b. 1886)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1935",
+      "text": "Bernhard Schmidt, Estonian-German optician, invented the Schmidt camera (b. 1879)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1943",
+      "text": "Damrong Rajanubhab, Thai historian and educator (b. 1862)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1947",
+      "text": "Aleister Crowley, English magician, poet, and mountaineer (b. 1875)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1947",
+      "text": "G. H. Hardy, English mathematician and theorist (b. 1877)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1950",
+      "text": "Ernest John Moeran, English pianist and composer (b. 1894)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1954",
+      "text": "Fred Rose, American pianist, composer, and publisher (b. 1898)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1964",
+      "text": "J. B. S. Haldane, English-Indian geneticist and biologist (b. 1892)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1964",
+      "text": "Charilaos Vasilakos, Greek runner (b. 1877)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1968",
+      "text": "Nicolae Bretan, Romanian opera singer, composer, and conductor (b. 1887)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1968",
+      "text": "Darío Moreno, Turkish singer-songwriter, guitarist, and actor (b. 1921)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1969",
+      "text": "Magic Sam, American singer and guitarist (b. 1937)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1973",
+      "text": "David Ben-Gurion, Polish-Israeli lawyer and politician, 1st Prime Minister of Israel (b. 1886)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1975",
+      "text": "Nellie Fox, American baseball player and coach (b. 1927)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1975",
+      "text": "Ernesto Maserati, Italian race car driver and engineer (b. 1898)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1975",
+      "text": "Anna Roosevelt Halsted, American journalist (b. 1906)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1981",
+      "text": "Russ Manning, American author and illustrator (b. 1929)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1984",
+      "text": "Roelof Frankot, Dutch painter and photographer (b. 1911)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1986",
+      "text": "Frank McCarthy, American general and film producer (b. 1912)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1987",
+      "text": "James Baldwin, American author, poet, and critic (b. 1924)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1987",
+      "text": "Punch Imlach, Canadian ice hockey player, coach, and manager (b. 1918)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1988",
+      "text": "J. Vernon McGee, American pastor and theologian (b. 1904)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1989",
+      "text": "Alvin Ailey, American dancer and choreographer (b. 1931)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1990",
+      "text": "Carla Lehmann, Canadian-English actress (b. 1917)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1991",
+      "text": "George Stigler, American economist and academic, Nobel Prize laureate (b. 1911)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1993",
+      "text": "Ray Gillen, American singer-songwriter (Badlands, Black Sabbath, Blue Murder, and Sun Red Sun) (b. 1959)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1995",
+      "text": "Hopper Levett, English cricketer (b. 1908)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1995",
+      "text": "Colin Tapley, New Zealand-English actor (b. 1907)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1995",
+      "text": "Maxwell R. Thurman, American general (b. 1931)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1996",
+      "text": "Peter Bronfman, Canadian businessman (b. 1928)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1997",
+      "text": "Michel Bélanger, Canadian banker and businessman (b. 1929)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1997",
+      "text": "Stéphane Grappelli, French violinist (Quintette du Hot Club de France) (b. 1908)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "1997",
+      "text": "Endicott Peabody, American lieutenant, lawyer, and politician, 62nd Governor of Massachusetts (b. 1920)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2001",
+      "text": "Ellis R. Dungan, American director and producer (b. 1909)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2002",
+      "text": "Edward L. Beach Jr., American captain and author (b. 1918)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2002",
+      "text": "Dave McNally, American baseball player (b. 1942)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2003",
+      "text": "Clark Kerr, American economist and academic (b. 1911)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2003",
+      "text": "Eugenio Monti, Italian bobsledder (b. 1928)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2004",
+      "text": "Prince Bernhard of Lippe-Biesterfeld (b. 1911)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2004",
+      "text": "Bill Brown, Scottish-Canadian footballer (b. 1931)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2005",
+      "text": "Gust Avrakotos, American CIA officer (b. 1938)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2005",
+      "text": "Mary Hayley Bell, Chinese-English actress and playwright (b. 1911)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2005",
+      "text": "Freeman V. Horner, American soldier, Medal of Honor recipient (b. 1922)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2006",
+      "text": "Claude Jade, French actress (b. 1948)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2006",
+      "text": "Bruce Trigger, Canadian archaeologist, anthropologist, and historian (b. 1937)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2007",
+      "text": "Ken McGregor, Australian tennis player and footballer (b. 1929)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2007",
+      "text": "Anton Rodgers, English actor and director (b. 1933)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2008",
+      "text": "Paul Benedict, American actor (b. 1938)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2008",
+      "text": "Mikel Laboa, Spanish singer-songwriter (b. 1934)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2008",
+      "text": "Joseph B. Wirthlin, American businessman and religious leader (b. 1917)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2009",
+      "text": "Gustavo Adolfo Palma, Guatemalan tenor and actor (b. 1920)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2010",
+      "text": "Adriaan Blaauw, Dutch astronomer and academic (b. 1914)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2010",
+      "text": "Hillard Elkins, American actor and producer (b. 1929)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2011",
+      "text": "Christa Wolf, German author and critic (b. 1929)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2012",
+      "text": "Jovan Belcher, American football player (b. 1987)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2012",
+      "text": "Arthur Chaskalson, South African lawyer and judge, 18th Chief Justice of South Africa (b. 1931)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2012",
+      "text": "Mitchell Cole, English footballer (b. 1985)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2012",
+      "text": "Rick Majerus, American basketball player and coach (b. 1948)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2012",
+      "text": "Ed Price, American soldier, pilot, and politician (b. 1918)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2012",
+      "text": "Yoshinori Watanabe, Japanese mob boss (b. 1941)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2013",
+      "text": "Richard Coughlan, English drummer (Caravan and The Wilde Flowers) (b. 1947)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2013",
+      "text": "Stirling Colgate, American physicist and academic (b. 1925)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2013",
+      "text": "Walter E. Ellis, American serial killer (b. 1960)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2013",
+      "text": "Edward Heffron, American soldier (b. 1923)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2013",
+      "text": "Martin Sharp, Australian cartoonist and songwriter (b. 1942)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2014",
+      "text": "Mario Abramovich, Argentinian violinist and composer (b. 1926)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2014",
+      "text": "Sita Murt, Spanish fashion designer (b. 1946)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2014",
+      "text": "Dimitrios Trichopoulos, Greek epidemiologist, oncologist, and academic (b. 1938)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2014",
+      "text": "Rocky Wood, New Zealand-Australian author (b. 1959)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2015",
+      "text": "Rob Blokzijl, Dutch physicist and computer scientist (b. 1943)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2015",
+      "text": "Joseph Engelberger, American physicist and engineer (b. 1925)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2015",
+      "text": "John F. Kurtzke, American neurologist and academic (b. 1926)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2015",
+      "text": "Jim Loscutoff, American basketball player (b. 1930)"
+    },
+    {
+      "day": 1,
+      "month": 12,
+      "year": "2015",
+      "text": "Trevor Obst, Australian footballer and coach (b. 1940)"
+    }
+  ]
+}

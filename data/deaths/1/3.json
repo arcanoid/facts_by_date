@@ -1,0 +1,664 @@
+{
+  "deaths": [
+    {
+      "day": 3,
+      "month": 1,
+      "year": "236",
+      "text": "Pope Anterus"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "323",
+      "text": "Emperor Yuan of Jin (b. 276)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1098",
+      "text": "Walkelin, French bishop"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1322",
+      "text": "Philip V of France (b. 1292)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1437",
+      "text": "Catherine of France (b. 1401)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1501",
+      "text": "Ali-Shir Nava'i, Turkic poet, linguist, and mystic (b. 1441)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1543",
+      "text": "Juan Rodríguez Cabrillo, Portuguese explorer and navigator (b. 1499)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1571",
+      "text": "Joachim II Hector, Elector of Brandenburg (b. 1505)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1641",
+      "text": "Jeremiah Horrocks, English astronomer and mathematician (b. 1618)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1656",
+      "text": "Mathieu Molé, French politician (b. 1584)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1670",
+      "text": "George Monck, 1st Duke of Albemarle, English general and politician, Lord Lieutenant of Ireland (b. 1608)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1701",
+      "text": "Louis I, Prince of Monaco (b. 1642)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1743",
+      "text": "Ferdinando Galli-Bibiena, Italian painter and architect (b. 1657)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1777",
+      "text": "William Leslie, Scottish captain (b. 1751)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1779",
+      "text": "Claude Bourgelat, French surgeon and lawyer (b. 1712)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1785",
+      "text": "Baldassare Galuppi, Italian composer (b. 1706)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1795",
+      "text": "Josiah Wedgwood, English potter, founded the Wedgwood Company (b. 1730)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1826",
+      "text": "Louis-Gabriel Suchet, French general (b. 1770)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1871",
+      "text": "Kuriakose Elias Chavara, Indian priest and saint (b. 1805)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1875",
+      "text": "Pierre Larousse, French lexicographer and publisher (b. 1817)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1882",
+      "text": "William Harrison Ainsworth, English author (b. 1805)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1895",
+      "text": "James Merritt Ives, American lithographer and businessman, co-founded Currier and Ives (b. 1824)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1903",
+      "text": "Alois Hitler, Austrian civil servant (b. 1837)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1911",
+      "text": "Alexandros Papadiamantis, Greek author and poet (b. 1851)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1915",
+      "text": "James Elroy Flecker, English poet, author, and playwright (b. 1884)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1916",
+      "text": "Grenville M. Dodge, American general and politician (b. 1831)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1922",
+      "text": "Wilhelm Voigt, German criminal (b. 1849)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1923",
+      "text": "Jaroslav Hašek, Czech journalist and author (b. 1883)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1927",
+      "text": "Carl David Tolmé Runge, German physicist and mathematician (b. 1856)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1931",
+      "text": "Joseph Joffre, French general (b. 1852)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1933",
+      "text": "Wilhelm Cuno, German lawyer and politician, Chancellor of Germany (b. 1876)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1933",
+      "text": "Jack Pickford, Canadian-American actor, director, and producer (b. 1896)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1943",
+      "text": "Walter James, Australian lawyer and politician, 5th Premier of Western Australia (b. 1863)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1944",
+      "text": "Jurgis Baltrušaitis, Lithuanian poet, critic, and translator (b. 1873)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1945",
+      "text": "Edgar Cayce, American psychic and author (b. 1877)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1945",
+      "text": "Ferdynand Antoni Ossendowski, Polish journalist and explorer (b. 1879)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1946",
+      "text": "William Joyce, American-born Irish-British Nazi propaganda broadcaster (b. 1906)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1956",
+      "text": "Alexander Gretchaninov, Russian-American pianist and composer (b. 1864)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1956",
+      "text": "Dimitrios Vergos, Greek wrestler, weightlifter, and shot putter (b. 1886)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1956",
+      "text": "Joseph Wirth, German educator and politician, Chancellor of Germany (b. 1876)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1958",
+      "text": "Cafer Tayyar Eğilmez, Turkish general (b. 1877)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1959",
+      "text": "Edwin Muir, Scottish poet, author, and translator (b. 1887)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1960",
+      "text": "Eric P. Kelly, American journalist, author, and academic (b. 1884)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1962",
+      "text": "Hermann Lux, German footballer and manager (b. 1893)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1965",
+      "text": "Milton Avery, American painter (b. 1885)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1967",
+      "text": "Mary Garden, Scottish-American soprano and actress (b. 1874)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1967",
+      "text": "Jack Ruby, American murderer (b. 1911)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1969",
+      "text": "Jean Focas, Greek-French astronomer (b. 1909)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1969",
+      "text": "Tzavalas Karousos, Greek-French actor (b. 1904)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1970",
+      "text": "Gladys Aylward, English missionary and humanitarian (b. 1902)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1972",
+      "text": "Mohan Rakesh, Indian author and playwright (b. 1925)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1975",
+      "text": "James McCormack, American general (b. 1910)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1977",
+      "text": "William Gropper, American lithographer, cartoonist, and painter (b. 1897)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1979",
+      "text": "Conrad Hilton, American businessman, founded the Hilton Hotels & Resorts (b. 1887)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1980",
+      "text": "Joy Adamson, Czech-Kenyan author (b. 1910)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1980",
+      "text": "George Sutherland Fraser, Scottish poet and academic (b. 1915)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1981",
+      "text": "Princess Alice, Countess of Athlone (b. 1883)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1985",
+      "text": "Bodil Joensen, Danish pornographic actress (b. 1944)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1988",
+      "text": "Rose Ausländer, Ukrainian-German poet and author (b. 1901)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1988",
+      "text": "Joie Chitwood, American race car driver and stuntman (b. 1912)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1989",
+      "text": "Sergei Sobolev, Russian mathematician and academic (b. 1909)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1992",
+      "text": "Judith Anderson, British actress (b. 1897)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "1993",
+      "text": "Johnny Most, American soldier and sportscaster (b. 1923)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2002",
+      "text": "Satish Dhawan, Indian engineer (b.1920)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2002",
+      "text": "Juan García Esquivel, Mexican pianist and composer (b. 1918)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2002",
+      "text": "Freddy Heineken, Dutch businessman (b. 1923)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2003",
+      "text": "Sid Gillman, American football player and coach (b. 1911)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2003",
+      "text": "Jimmy Stewart, Scottish race car driver (b. 1931)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2004",
+      "text": "Des Corcoran, Australian soldier and politician, 37th Premier of South Australia (b. 1928)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2005",
+      "text": "Koo Chen-fu, Taiwanese businessman and diplomat (b. 1917)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2005",
+      "text": "Jyotindra Nath Dixit, Indian diplomat, 2nd Indian National Security Adviser (b. 1936)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2006",
+      "text": "Steve Rogers, Australian rugby player and coach (b. 1954)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2006",
+      "text": "Bill Skate, Papua New Guinean politician, 5th Prime Minister of Papua New Guinea (b. 1954)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2007",
+      "text": "János Fürst, Hungarian violinist and conductor (b. 1935)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2007",
+      "text": "Sergio Jiménez, Mexican actor and director (b. 1937)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2007",
+      "text": "Earl Reibel, Canadian ice hockey player (b. 1930)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2007",
+      "text": "William Verity, Jr., American businessman and politician, 27th United States Secretary of Commerce (b. 1917)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2007",
+      "text": "Cecil Walker, Northern Irish politician (b. 1924)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2008",
+      "text": "Aleksandr Abdulov, Russian actor and screenwriter (b. 1953)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2008",
+      "text": "Werner Dollinger, German economist and politician, German Federal Minister of Economic Cooperation and Development (b. 1918)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2008",
+      "text": "Choi Yo-sam, South Korean boxer (b. 1972)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2009",
+      "text": "Betty Freeman, American philanthropist and photographer (b. 1921)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2009",
+      "text": "Pat Hingle, American actor and producer (b. 1924)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2009",
+      "text": "Ulf G. Lindén, Swedish businessman (b. 1937)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2009",
+      "text": "Hisayasu Nagata, Japanese politician (b. 1969)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2010",
+      "text": "Gustavo Becerra-Schmidt, Chilean-German composer and academic (b. 1925)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2010",
+      "text": "Mary Daly, American theologian and scholar (b. 1928)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2012",
+      "text": "Vicar, Chilean cartoonist (b. 1934)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2012",
+      "text": "Gene Bartow, American basketball player and coach (b. 1930)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2012",
+      "text": "Robert L. Carter, American lawyer and judge (b. 1917)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2012",
+      "text": "Winifred Milius Lubell, American author and illustrator (b. 1914)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2012",
+      "text": "Joaquín Martínez, Mexican-American actor (b. 1930)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2012",
+      "text": "Josef Škvorecký, Czech-Canadian author and publisher (b. 1924)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2012",
+      "text": "Bob Weston, English guitarist and songwriter (Fleetwood Mac) (b. 1947)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2013",
+      "text": "Alfie Fripp, English soldier and pilot (b. 1913)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2013",
+      "text": "Ivan Mackerle, Czech cryptozoologist, explorer, and author (b. 1942)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2013",
+      "text": "William Maxson, American general (b. 1930)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2013",
+      "text": "Sergiu Nicolaescu, Romanian actor, director, and screenwriter (b. 1930)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2014",
+      "text": "Phil Everly, American singer and guitarist (The Everly Brothers) (b. 1939)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2014",
+      "text": "George Goodman, American economist and author (b. 1930)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2014",
+      "text": "Saul Zaentz, American film producer (b. 1921)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2015",
+      "text": "Martin Anderson, American economist and academic (b. 1936)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2015",
+      "text": "Edward Brooke, American captain and politician, 47th Massachusetts Attorney General (b. 1919)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2015",
+      "text": "Bryan Caldwell, American football player (b. 1960)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2015",
+      "text": "Allie Sherman, American football player and coach (b. 1923)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2016",
+      "text": "Paul Bley, Canadian-American pianist and composer (b. 1932)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2016",
+      "text": "Stephen W. Bosworth, American academic and diplomat, United States Ambassador to South Korea (b. 1939)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2016",
+      "text": "Peter Naur, Danish computer scientist, astronomer, and academic (b. 1928)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2016",
+      "text": "Bill Plager, Canadian ice hockey player and coach (b. 1945)"
+    },
+    {
+      "day": 3,
+      "month": 1,
+      "year": "2016",
+      "text": "Igor Sergun, Russian general and diplomat (b. 1957)"
+    }
+  ]
+}

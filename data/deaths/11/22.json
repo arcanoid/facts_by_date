@@ -1,0 +1,610 @@
+{
+  "deaths": [
+    {
+      "day": 22,
+      "month": 11,
+      "year": "365",
+      "text": "Antipope Felix II"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "950",
+      "text": "Lothair II of Italy (b. 926)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1286",
+      "text": "Eric V of Denmark (b. 1249)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1318",
+      "text": "Mikhail of Tver (b. 1271)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1392",
+      "text": "Robert de Vere, Duke of Ireland (b. 1362)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1617",
+      "text": "Ahmed I, Ottoman sultan (b. 1590)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1694",
+      "text": "John Tillotson, English archbishop (b. 1630)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1697",
+      "text": "Libéral Bruant, French architect and academic, designed Les Invalides (b. 1635)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1710",
+      "text": "Bernardo Pasquini, Italian organist and composer (b. 1637)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1718",
+      "text": "Blackbeard, English pirate (b. 1680)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1758",
+      "text": "Richard Edgcumbe, 1st Baron Edgcumbe, English politician, Lord Lieutenant of Cornwall (db. 1680)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1774",
+      "text": "Robert Clive, English general and politician, Lord Lieutenant of Shropshire (b. 1725)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1794",
+      "text": "John Alsop, American merchant and politician (b. 1724)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1813",
+      "text": "Johann Christian Reil, German physician, physiologist, and anatomist (b. 1759)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1819",
+      "text": "John Stackhouse, English botanist and phycologist (b. 1742)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1875",
+      "text": "Henry Wilson, American colonel, journalist, and politician, 18th Vice President of the United States (b. 1812)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1886",
+      "text": "William Bliss Baker, American painter (b. 1859)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1886",
+      "text": "Mary Boykin Chesnut, American author (b. 1823)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1896",
+      "text": "George Washington Gale Ferris, Jr., American engineer, invented the Ferris Wheel (b. 1859)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1900",
+      "text": "Arthur Sullivan, English composer and scholar (b. 1842)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1902",
+      "text": "Walter Reed, American physician and entomologist (b. 1851)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1913",
+      "text": "Tokugawa Yoshinobu, Japanese shogun (b. 1837)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1916",
+      "text": "Jack London, American novelist and journalist (b. 1876)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1917",
+      "text": "Teoberto Maler, Italian-German archaeologist and explorer (b. 1842)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1919",
+      "text": "Francisco Moreno, Argentinian explorer and academic (b. 1852)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1920",
+      "text": "Manuel Pérez y Curis, Uruguayan poet and author (b. 1884)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1926",
+      "text": "Darvish Khan, Iranian tar player (b. 1872)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1932",
+      "text": "William Walker Atkinson, American merchant, lawyer, and author (b. 1862)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1941",
+      "text": "Werner Mölders, German colonel and pilot (b. 1915)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1943",
+      "text": "Lorenz Hart, American playwright and composer (b. 1895)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1944",
+      "text": "Arthur Eddington, English astrophysicist and astronomer (b. 1882)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1946",
+      "text": "Otto Georg Thierack, German jurist and politician, German Minister of Justice (b. 1889)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1948",
+      "text": "Fakhri Pasha, Turkish general and politician (b. 1868)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1953",
+      "text": "Sulaiman Nadvi, Pakistani historian, author, and scholar (b. 1884)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1954",
+      "text": "Jess McMahon, American wrestling promoter, co-founded Capitol Wrestling Corporation (b. 1882)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1955",
+      "text": "Shemp Howard, American actor and singer (b. 1895)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1956",
+      "text": "Theodore Kosloff, Russian-American actor, ballet dancer, and choreographer (b. 1882)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1963",
+      "text": "Wilhelm Beiglböck, Austrian-German physician (b. 1905)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1963",
+      "text": "Aldous Huxley, English-American author and screenwriter (b. 1894)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1963",
+      "text": "John F. Kennedy, American lieutenant and politician, 35th President of the United States (b. 1917)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1963",
+      "text": "C. S. Lewis, Irish-English author, poet, and critic (b. 1898)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1963",
+      "text": "J. D. Tippit, American police officer (b. 1924)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1967",
+      "text": "Pavel Korin, Russian painter (b. 1892)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1976",
+      "text": "Sevgi Soysal, Turkish author (b. 1936)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1980",
+      "text": "Jules Léger, Canadian journalist and politician, 21st Governor General of Canada (b. 1913)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1980",
+      "text": "Norah McGuinness, Irish painter and illustrator (b. 1901)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1980",
+      "text": "Mae West, American actress, singer, and screenwriter (b. 1893)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1981",
+      "text": "Hans Adolf Krebs, German-English physician and biochemist, Nobel Prize laureate (b. 1900)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1986",
+      "text": "Scatman Crothers, American actor, singer, and dancer (b. 1910)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1986",
+      "text": "William Bradford Huie, American journalist and author (b. 1910)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1988",
+      "text": "Luis Barragán, Mexican architect and engineer, designed the Torres de Satélite (b. 1908)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1989",
+      "text": "C. C. Beck, American illustrator (b. 1910)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1989",
+      "text": "René Moawad, Lebanese lawyer and politician, 13th President of Lebanon (b. 1925)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1992",
+      "text": "Sterling Holloway, American actor and singer (b. 1905)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1993",
+      "text": "Anthony Burgess, English novelist, playwright, and critic (b. 1917)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1994",
+      "text": "Forrest White, American businessman (b. 1920)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1996",
+      "text": "María Casares, Spanish-French actress (b. 1922)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1996",
+      "text": "Terence Donovan, English photographer and director (b. 1936)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1996",
+      "text": "Mark Lenard, American actor (b. 1924)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1997",
+      "text": "Michael Hutchence, Australian singer-songwriter and actor (INXS and Max Q) (b. 1960)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "1998",
+      "text": "Stu Ungar, American poker player (b. 1953)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2000",
+      "text": "Christian Marquand, French actor, director, and screenwriter (b. 1927)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2000",
+      "text": "Emil Zátopek, Czech runner (b. 1922)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2001",
+      "text": "Mary Kay Ash, American businesswoman, founded Mary Kay, Inc. (b. 1915)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2001",
+      "text": "Theo Barker, English historian and academic (b. 1923)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2001",
+      "text": "Norman Granz, American-Swiss record producer, founded Verve Records (b. 1918)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2002",
+      "text": "Parley Baer, American actor (b. 1914)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2004",
+      "text": "Arthur Hopcraft, English screenwriter and journalist (b. 1932)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2005",
+      "text": "Bruce Hobbs, American jockey and trainer (b. 1920)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2006",
+      "text": "Pat Dobson, American baseball player and coach (b. 1942)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2007",
+      "text": "Maurice Béjart, French-Swiss dancer, choreographer, and director (b. 1929)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2007",
+      "text": "Verity Lambert, English television producer (b. 1935)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2008",
+      "text": "MC Breed, American rapper (b. 1971)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2010",
+      "text": "Jean Cione, American baseball player and educator (b. 1928)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2010",
+      "text": "Frank Fenner, Australian virologist and microbiologist (b. 1914)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2011",
+      "text": "Svetlana Alliluyeva, Russian-American author and educator (b. 1926)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2011",
+      "text": "Sena Jurinac, Bosnian-Austrian soprano and actress (b. 1921)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2011",
+      "text": "Lynn Margulis, American biologist and academic (b. 1938)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2011",
+      "text": "Danielle Mitterrand, French activist, First Lady of France (b. 1924)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2011",
+      "text": "Paul Motian, American drummer and composer (b. 1931)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2012",
+      "text": "Frank Barsalona, American talent agent (b. 1938)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2012",
+      "text": "Pearl Laska Chamberlain, American pilot (b. 1909)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2012",
+      "text": "Bryce Courtenay, South African-Australian author (b. 1933)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2012",
+      "text": "Bennie McRae, American football player (b. 1939)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2012",
+      "text": "P. Govinda Pillai, Indian journalist and politician (b. 1926)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2013",
+      "text": "Don Dailey, American computer programmer (b. 1956)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2013",
+      "text": "Brian Dawson, English singer (b. 1939)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2013",
+      "text": "Jancarlos de Oliveira Barros, Brazilian footballer (b. 1983)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2013",
+      "text": "Tom Gilmartin, Irish businessman (b. 1935)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2013",
+      "text": "Georges Lautner, French director and screenwriter (b. 1926)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2013",
+      "text": "Alec Reid, Irish priest and activist (b. 1931)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2014",
+      "text": "Fiorenzo Angelini, Italian cardinal (b. 1916)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2014",
+      "text": "Merle Barwis, American-Canadian super-centenarian (b. 1900)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2014",
+      "text": "Don Grate, American baseball and basketball player (b. 1923)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2014",
+      "text": "Marcel Paquet, Belgian-Polish philosopher and author (b. 1947)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2014",
+      "text": "Émile Poulat, French sociologist and historian (b. 1920)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2015",
+      "text": "Abubakar Audu, Nigerian banker and politician, Governor of Kogi State (b. 1947)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2015",
+      "text": "Salahuddin Quader Chowdhury, Bangladeshi politician (b. 1949)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2015",
+      "text": "Ali Ahsan Mohammad Mojaheed, Bangladeshi politician (b. 1948)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2015",
+      "text": "Robin Stewart,Indian-English actor and game show host (b. 1946)"
+    },
+    {
+      "day": 22,
+      "month": 11,
+      "year": "2015",
+      "text": "Kim Young-sam, South Korean soldier and politician, 7th President of South Korea (b. 1927)"
+    }
+  ]
+}

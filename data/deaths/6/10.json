@@ -1,0 +1,658 @@
+{
+  "deaths": [
+    {
+      "day": 10,
+      "month": 6,
+      "year": "323 BC",
+      "text": "Alexander the Great, Macedonian king (b. 356 BC)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "38",
+      "text": "Julia Drusilla, Roman sister of Caligula (b. 16 AD)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "223",
+      "text": "Liu Bei, Chinese emperor (b. 161)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "754",
+      "text": "Abul Abbas al-Saffah, Muslim caliph (b. 721)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1075",
+      "text": "Ernest, Margrave of Austria (b. 1027)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1141",
+      "text": "Richenza of Northeim (b. 1087)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1190",
+      "text": "Frederick I, Holy Roman Emperor (b. 1122)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1261",
+      "text": "Matilda of Brandenburg, Duchess of Brunswick-Lüneburg (b. 1210)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1364",
+      "text": "Agnes of Austria (b. 1281)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1403",
+      "text": "Konrad II the Gray, Polish son of Konrad I of Oleśnica (b. 1340)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1424",
+      "text": "Ernest, Duke of Austria (b. 1377)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1552",
+      "text": "Alexander Barclay, English poet and author (b. 1476)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1556",
+      "text": "Martin Agricola, German composer and theorist (b. 1486)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1607",
+      "text": "John Popham, English politician, Attorney General for England and Wales (b. 1531)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1654",
+      "text": "Alessandro Algardi, Italian sculptor (b. 1598)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1680",
+      "text": "Johan Göransson Gyllenstierna, Swedish lawyer and politician (b. 1635)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1692",
+      "text": "Bridget Bishop, Colonial Massachusetts woman hanged as a witch during the Salem witch trials (b. 1632)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1735",
+      "text": "Thomas Hearne, English historian and author (b. 1678)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1753",
+      "text": "Joachim Ludwig Schultheiss von Unfriedt, German architect (b. 1678)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1776",
+      "text": "Hsinbyushin, Burmese king (b. 1736)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1776",
+      "text": "Leopold Widhalm, Austrian instrument maker (b. 1722)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1791",
+      "text": "Toussaint-Guillaume Picquet de la Motte, French admiral (b. 1720)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1799",
+      "text": "Chevalier de Saint-Georges, Caribbean-French violinist, composer, and conductor (b. 1745)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1811",
+      "text": "Charles Frederick, Grand Duke of Baden (b. 1728)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1831",
+      "text": "Hans Karl von Diebitsch, German-Russian field marshal (b. 1785)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1836",
+      "text": "André-Marie Ampère, French physicist and mathematician (b. 1775)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1849",
+      "text": "Thomas Robert Bugeaud, French general and politician (b. 1784)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1849",
+      "text": "Robert Brown, Scottish botanist and palaeobotanist (b. 1773)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1868",
+      "text": "Mihailo Obrenović III, Prince of Serbia (b. 1823)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1889",
+      "text": "Abraham Hochmuth, Hungarian rabbi and author (b. 1816)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1896",
+      "text": "Amelia Dyer, English murderer (b. 1829)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1898",
+      "text": "Tuone Udaina, Croatian-Italian last speaker of the Dalmatian language (b. 1821)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1899",
+      "text": "Ernest Chausson, French composer (b. 1855)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1901",
+      "text": "Robert Williams Buchanan, Scottish poet, author, and playwright (b. 1841)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1902",
+      "text": "Jacint Verdaguer, Catalan priest and poet (b. 1845)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1909",
+      "text": "Edward Everett Hale, American minister, historian, and author (b. 1822)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1912",
+      "text": "Anton Aškerc, Slovenian priest and poet (b. 1856)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1914",
+      "text": "Ödön Lechner, Hungarian architect (b. 1845)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1918",
+      "text": "Arrigo Boito, Italian author, poet, and composer (b. 1842)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1923",
+      "text": "Pierre Loti, French soldier and author (b. 1850)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1924",
+      "text": "Giacomo Matteotti, Italian lawyer and politician (b. 1885)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1926",
+      "text": "Antoni Gaudí, Spanish architect, designed the Park Güell (b. 1852)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1929",
+      "text": "Hélène Smith, French psychic and occultist (b. 1861)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1930",
+      "text": "Adolf von Harnack, German historian and theologian (b. 1851)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1934",
+      "text": "Frederick Delius, English composer and educator (b. 1862)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1937",
+      "text": "Robert Borden, Canadian lawyer and politician, 8th Prime Minister of Canada (b. 1854)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1940",
+      "text": "Marcus Garvey, Jamaican journalist and activist, founded the Black Star Line (b. 1887)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1944",
+      "text": "Willem Jacob van Stockum, Dutch mathematician and academic (b. 1910)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1946",
+      "text": "Jack Johnson, American boxer (b. 1878)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1947",
+      "text": "Alexander Bethune, Canadian businessman and politician, 12th Mayor of Vancouver (b. 1852)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1949",
+      "text": "Sigrid Undset, Danish-Norwegian author and translator, Nobel Prize laureate (b. 1882)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1955",
+      "text": "Margaret Abbott, Indian-American golfer (b. 1876)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1958",
+      "text": "Angelina Weld Grimké, American journalist, poet, and playwright (b. 1880)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1959",
+      "text": "Zoltán Meskó, Hungarian politician (b. 1883)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1963",
+      "text": "Timothy Birdsall, English cartoonist (b. 1936)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1965",
+      "text": "Vahap Özaltay, Turkish footballer and manager (b. 1908)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1967",
+      "text": "Spencer Tracy, American actor (b. 1900)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1970",
+      "text": "Earl Grant, American singer and pianist (b. 1931)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1971",
+      "text": "Michael Rennie, English actor and producer (b. 1909)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1973",
+      "text": "William Inge, American author and playwright (b. 1913)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1974",
+      "text": "Prince Henry, Duke of Gloucester (b. 1900)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1976",
+      "text": "Adolph Zukor, Hungarian-American film producer, co-founded Paramount Pictures (b. 1873)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1982",
+      "text": "Rainer Werner Fassbinder, German actor, director, and screenwriter (b. 1945)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1984",
+      "text": "Halide Nusret Zorlutuna, Turkish author and poet (b. 1901)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1986",
+      "text": "Merle Miller, American author and playwright (b. 1919)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1987",
+      "text": "Elizabeth Hartman, American actress (b. 1943)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1988",
+      "text": "Louis L'Amour, American author and poet (b. 1908)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1991",
+      "text": "Jean Bruller, French author and illustrator, co-founded Les Éditions de Minuit (b. 1902)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1992",
+      "text": "Hachidai Nakamura, Chinese-Japanese pianist and composer (b. 1931)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1993",
+      "text": "Arleen Auger, American soprano (b, 1939)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1993",
+      "text": "Les Dawson, English comedian, actor, and screenwriter (b. 1934)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1996",
+      "text": "George Hees, Canadian soldier, football player, and politician (b. 1910)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1996",
+      "text": "Jo Van Fleet, American actress (b. 1914)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1998",
+      "text": "Jim Hearn, American baseball player (b. 1921)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "1998",
+      "text": "Hammond Innes, English soldier and author (b. 1914)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2000",
+      "text": "Hafez al-Assad, Syrian general and politician, 18th President of Syria (b. 1930)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2002",
+      "text": "John Gotti, American mobster (b. 1940)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2003",
+      "text": "Donald Regan, American colonel and politician, 11th White House Chief of Staff (b. 1918)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2003",
+      "text": "Bernard Williams, English philosopher and academic (b. 1929)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2003",
+      "text": "Phil Williams, Welsh academic and politician (b. 1939)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2004",
+      "text": "Ray Charles, American singer-songwriter, pianist, and actor (b. 1930)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2004",
+      "text": "Xenophon Zolotas, Greek economist and politician, 177th Prime Minister of Greece (b. 1904)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2005",
+      "text": "Curtis Pitts, American aircraft designer, designed the Pitts Special (b. 1915)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2007",
+      "text": "Augie Auer, American-New Zealand meteorologist (b. 1940)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2008",
+      "text": "Chinghiz Aitmatov, Kyrgyzstani author and diplomat (b. 1928)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2009",
+      "text": "Stelios Skevofilakas, Greek footballer (b. 1940)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2010",
+      "text": "Basil Schott, American archbishop (b. 1939)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2010",
+      "text": "Sigmar Polke, German painter and photographer (b. 1941)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2011",
+      "text": "Brian Lenihan, Jnr, Irish lawyer and politician, 25th Irish Minister for Finance (b. 1959)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2012",
+      "text": "Piero Bellugi, Italian conductor (b. 1924)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2012",
+      "text": "Will Hoebee, Dutch songwriter and producer (b. 1947)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2012",
+      "text": "Georges Mathieu, French painter and academic (b. 1921)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2012",
+      "text": "Joshua Orwa Ojode, Kenyan politician (b. 1958)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2012",
+      "text": "George Saitoti, Kenyan economist and politician, 6th Vice-President of Kenya (b. 1945)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2012",
+      "text": "Sudono Salim, Chinese-Indonesian businessman, founded Bank Central Asia (b. 1916)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2012",
+      "text": "Gordon West, English footballer (b. 1943)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2013",
+      "text": "Doug Bailey, American political consultant (b. 1933)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2013",
+      "text": "Yehoshua Neuwirth, Israeli rabbi and scholar (b. 1927)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2013",
+      "text": "Enrique Orizaola, Spanish footballer and coach (b. 1922)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2013",
+      "text": "Barbara Vucanovich, American lawyer and politician (b. 1921)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2014",
+      "text": "Marcello Alencar, Brazilian lawyer and politician, 57th Governor of Rio de Janeiro (b. 1925)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2014",
+      "text": "George A. Burton, American soldier, accountant, and politician (b. 1926)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2014",
+      "text": "Gary Gilmour, Australian cricketer and manager (b. 1951)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2014",
+      "text": "Robert M. Grant, American theologian and academic (b. 1917)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2014",
+      "text": "Jack Lee, American radio host and politician (b. 1920)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2014",
+      "text": "Keshav Malik, Indian poet and critic (b. 1924)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2015",
+      "text": "Bonecrusher, New Zealand race horse (b. 1982)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2015",
+      "text": "Robert Chartoff, American film producer and philanthropist (b. 1933)"
+    },
+    {
+      "day": 10,
+      "month": 6,
+      "year": "2015",
+      "text": "Wolfgang Jeschke, German author and publisher (b. 1936)"
+    }
+  ]
+}
