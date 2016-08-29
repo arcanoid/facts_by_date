@@ -62,6 +62,7 @@ describe FactsByDate::Generator do
       expect(output.size).to eq(2)
     end
   end
+
   describe '#deaths_for_today' do
     it 'should respond with full list when no option is given' do
       Timecop.freeze('31-10-2116')
@@ -94,11 +95,75 @@ describe FactsByDate::Generator do
     end
   end
 
+  describe '#national_days_for_today' do
+    it 'should respond with full list when no option is given' do
+      Timecop.freeze('25-03-2015')
+      output = FactsByDate::Generator.national_days_for_today
+      expect(output).to be_kind_of Array
+      expect(output.size).to eq(2)
+      Timecop.return
+    end
+
+    it 'should respond with proper list when size option is given' do
+      Timecop.freeze('25-03-2116')
+      output = FactsByDate::Generator.national_days_for_today({:size => 2})
+      expect(output).to be_kind_of Array
+      expect(output.size).to eq(2)
+      Timecop.return
+    end
+  end
+
+  describe '#national_days_for_specific_date' do
+    it 'should respond with proper list when no option is given' do
+      output = FactsByDate::Generator.national_days_for_specific_date('25-03-2015')
+      expect(output).to be_kind_of Array
+      expect(output.size).to eq(2)
+    end
+
+    it 'should respond with proper list when size option is given' do
+      output = FactsByDate::Generator.national_days_for_specific_date('25-03-2015', { :size => 1 })
+      expect(output).to be_kind_of Array
+      expect(output.size).to eq(1)
+    end
+  end
+
+  describe '#international_days_for_today' do
+    it 'should respond with full list when no option is given' do
+      Timecop.freeze('25-03-2015')
+      output = FactsByDate::Generator.international_days_for_today
+      expect(output).to be_kind_of Array
+      expect(output.size).to eq(2)
+      Timecop.return
+    end
+
+    it 'should respond with proper list when size option is given' do
+      Timecop.freeze('25-03-2116')
+      output = FactsByDate::Generator.international_days_for_today({:size => 2})
+      expect(output).to be_kind_of Array
+      expect(output.size).to eq(2)
+      Timecop.return
+    end
+  end
+
+  describe '#international_days_for_specific_date' do
+    it 'should respond with proper list when no option is given' do
+      output = FactsByDate::Generator.international_days_for_specific_date('25-03-2015')
+      expect(output).to be_kind_of Array
+      expect(output.size).to eq(2)
+    end
+
+    it 'should respond with proper list when size option is given' do
+      output = FactsByDate::Generator.international_days_for_specific_date('25-03-2015', { :size => 1 })
+      expect(output).to be_kind_of Array
+      expect(output.size).to eq(1)
+    end
+  end
+
   describe '#sources' do
     it 'should respond with proper list' do
       output = FactsByDate::Generator.sources
       expect(output).to be_kind_of Array
-      expect(output.size).to eq(27)
+      expect(output.size).to eq(28)
     end
   end
 end
