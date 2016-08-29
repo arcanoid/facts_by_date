@@ -1,3 +1,6 @@
+## v1.3.0 - 30/08/2016
+* Added national and international days
+
 ## v1.2.0 - 05/08/2016
 * Added infrastructure for births and deaths of specific date
 * Added method births_for_today 
